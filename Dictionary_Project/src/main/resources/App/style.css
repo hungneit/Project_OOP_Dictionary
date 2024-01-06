@@ -1,0 +1,15 @@
+.hi{
+    -fx-background-color: pink;
+    -fx-background-radius: 20;
+
+}
+
+.button{
+    -fx-background-color: #f8f8f8;
+}
+.button1{
+    -fx-background-color: pink;
+}
+.search{
+    -fx-background-radius: 30 ;
+}

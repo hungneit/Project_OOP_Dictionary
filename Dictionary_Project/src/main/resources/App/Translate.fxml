@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="587.0" prefWidth="781.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App.TranslateController">
+  <children>
+    <Pane layoutX="41.0" layoutY="118.0" prefHeight="423.0" prefWidth="700.0" style="-fx-background-color: pink;" styleClass="hi" stylesheets="@style.css">
+      <children>
+        <TextArea fx:id="translateTarget" layoutX="27.0" layoutY="92.0" prefHeight="196.0" prefWidth="302.0" promptText="Nhập..." wrapText="true" />
+        <TextArea fx:id="translateExplain" layoutX="373.0" layoutY="92.0" prefHeight="196.0" prefWidth="302.0" promptText="Bản dịch..." wrapText="true" />
+        <Label fx:id="english" layoutX="129.0" layoutY="41.0" prefHeight="29.0" prefWidth="96.0" text="English" textAlignment="CENTER">
+               <graphic>
+              <ImageView fitHeight="28.951080322265625" fitWidth="28.951080322265625" pickOnBounds="true" preserveRatio="true">
+                <image>
+                  <Image url="@../Utils/Icons/icons8_great_britain_48px.png" />
+                </image>
+              </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Lucida Bright Demibold" size="14.0" />
+               </font></Label>
+        <Button fx:id="translateBtn" layoutX="314.0" layoutY="332.0" mnemonicParsing="false" onAction="#onClicktranslateBtn" prefHeight="28.951171875" prefWidth="77.0" text="Dịch" textAlignment="CENTER" textFill="BLACK" textOverrun="ELLIPSIS">
+          <effect>
+            <ColorAdjust brightness="0.4427480916030535" contrast="0.2137404580152671" hue="-0.1984732824427481" saturation="0.6717557251908399" />
+          </effect>
+          <font>
+            <Font name="Arial Bold" size="15.0" />
+          </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+        </Button>
+            <Button fx:id="swapBtn" layoutX="333.0" layoutY="40.0" mnemonicParsing="false">
+               <graphic>
+              <ImageView fitHeight="26.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                <image>
+                  <Image url="@../Utils/Icons/pngtree-double-direction-arrow-icon-png-image_971624_preview_rev_1.png" />
+                </image>
+              </ImageView>
+               </graphic>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Label fx:id="vietnam" layoutX="453.0" layoutY="45.0" prefHeight="20.0" prefWidth="118.0" text="Vietnamese">
+               <graphic>
+              <ImageView fitHeight="19.02636703627543" fitWidth="28.525623321533203" pickOnBounds="true" preserveRatio="true">
+                <image>
+                  <Image url="@../Utils/Icons/Flag_of_Vietnam.svg.png" />
+                </image>
+              </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Lucida Bright Demibold" size="14.0" />
+               </font>
+            </Label>
+      </children>
+    </Pane>
+      <Pane layoutX="40.0" layoutY="29.0" prefHeight="64.0" prefWidth="700.0" style="-fx-background-color: pink;" styleClass="hi" stylesheets="@style.css">
+         <children>
+            <Label layoutX="63.0" layoutY="15.0" prefHeight="40.0" prefWidth="214.0" stylesheets="@style.css" text="TRANSLATE" textFill="#f6f6fa">
+               <font>
+                  <Font name="Droid Serif" size="31.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="54.0" fitWidth="61.0" layoutX="1.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Utils/Icons/405239706_1601011133765346_3402005213324257847_n_preview_rev_1.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+  </children>
+</AnchorPane>

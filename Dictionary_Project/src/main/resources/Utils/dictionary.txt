@@ -1,0 +1,4432 @@
+a : một
+abandon : từ bỏ
+ability : có khả năng
+able : có thể
+abortion : sự phá thai
+about : khoảng
+above : ở trên
+abroad : ở nước ngoài
+absence : vắng mặt
+absolute : tuyệt đối
+absolutely : chắc chắn rồi
+absorb : hấp thụ
+abstract : trừu tượng
+abuse : lạm dụng
+academic : học tập
+accelerate : đẩy nhanh
+accent : giọng điệu
+accept : chấp nhận
+acceptable : chấp nhận được
+acceptance : chấp thuận
+access : truy cập
+accessible : có thể truy cập
+accident : tai nạn
+accommodate : chứa
+accompany : đi kèm
+accomplish : hoàn thành
+accomplishment : hoàn thành
+according : theo
+account : tài khoản
+accountability : trách nhiệm giải trình
+accounting : kế toán
+accuracy : tính chính xác
+accurate : chính xác
+accurately : chính xác
+accusation : tố cáo
+accuse : tố cáo
+acid : axit
+acknowledge : công nhận
+acquire : có được, thu được
+acquisition : mua lại
+across : băng qua
+act : hành động
+action : hoạt động
+active : đang hoạt động
+actively : tích cực
+activist : nhà hoạt động
+activity : hoạt động
+actor : diễn viên
+actual : thực tế
+actually : thực ra
+actress : nữ diễn viên
+achieve : hoàn thành
+achievement : thành tích
+ad : quảng cáo
+adapt : phỏng theo
+add : thêm vào
+added : thêm
+addition : thêm vào
+additional : bổ sung
+address : địa chỉ nhà
+adequate : đầy đủ
+adjust : điều chỉnh
+adjustment : điều chỉnh
+administer : quản lý
+administration : quản trị
+administrative : hành chính
+administrator : người quản lý
+admire : ngưỡng mộ
+admission : nhận vào
+admit : thừa nhận
+adolescent : thanh niên
+adopt : thông qua
+adoption : nhận con nuôi
+adult : người lớn
+advance : nâng cao
+advanced : nâng cao
+advantage : lợi thế
+adventure : cuộc phiêu lưu
+advertising : quảng cáo
+advice : khuyên bảo
+advise : khuyên nhủ
+adviser : cố vấn
+advocate : biện hộ
+aesthetic : thẩm mỹ
+affair : chuyện
+affect : có ảnh hưởng đến
+afford : đủ khả năng
+afraid : sợ
+african : châu phi
+africanamerican : người mỹ gốc phi
+after : sau
+afternoon : buổi chiều
+afterward : sau đó
+again : lần nữa
+against : chống lại
+age : tuổi tác
+agency : đại lý
+agenda : chương trình nghị sự
+agent : đặc vụ
+aggression : hiếu chiến
+aggressive : xâm lược
+ago : trước
+agree : đồng ý
+agreement : thỏa thuận
+agricultural : nông nghiệp
+agriculture : nông nghiệp
+ah : ah
+ahead : phía trước
+aid : viện trợ
+aide : trợ lý
+aids : aids
+aim : mục đích
+air : không khí
+aircraft : phi cơ
+airline : hãng hàng không
+airplane : máy bay
+airport : sân bay
+aisle : lối đi
+alarm : báo thức
+album : album
+alcohol : rượu
+alien : người ngoài hành tinh
+alike : như nhau
+alive : sống sót
+all : tất cả các
+allegation : cáo buộc
+alleged : cáo buộc
+allegedly : bị cáo buộc
+alley : hẻm
+alliance : liên minh
+allow : cho phép
+ally : đồng minh
+almost : hầu hết
+alone : một mình
+along : dọc theo
+alongside : bên cạnh
+already : đã
+also : cũng thế
+alter : thay đổi
+alternative : thay thế
+altogether : hoàn toàn
+although : mặc dù
+aluminum : nhôm
+always : luôn luôn
+am : là
+amazing : kinh ngạc
+ambassador : đại sứ
+ambition : tham vọng
+ambitious : đầy tham vọng
+amendment : sửa đổi
+american : người mỹ
+amid : giữa
+among : trong số
+amount : số lượng
+an : một
+analysis : phân tích
+analyst : nhà phân tích
+analyze : phân tích
+ancestor : tổ tiên
+ancient : xưa
+and : và
+animal : thú vật
+ankle : mắt cá
+anniversary : ngày kỷ niệm
+announce : tuyên bố
+announcement : thông báo
+annual : hàng năm
+annually : hàng năm
+anonymous : vô danh
+another : khác
+answer : câu trả lời
+anticipate : đoán trước
+anxiety : sự lo ngại
+anxious : lo lắng
+any : bất kì
+anybody : bất kỳ ai
+anymore : nữa không
+anyone : bất kỳ ai
+anything : bất cứ điều gì
+anyway : dù sao
+anywhere : ở đâu
+angel : thiên thần
+anger : sự phẫn nộ
+angle : góc
+angry : bực bội
+apart : xa nhau
+apartment : căn hộ, chung cư
+apology : xin lỗi
+apologize : xin lỗi
+apparent : rõ ràng
+apparently : dường như
+appeal : kháng cáo
+appear : xuất hiện
+appearance : xuất hiện
+apple : táo
+application : ứng dụng
+apply : ứng dụng
+appoint : bổ nhiệm
+appointment : cuộc hẹn
+appreciate : đánh giá
+appreciation : sự đánh giá
+approach : tiếp cận
+appropriate : thích hợp
+approval : sự chấp thuận
+approve : tán thành
+approximately : xấp xỉ
+arab : arab
+architect : kiến trúc sư
+architecture : kiến trúc
+are : là
+area : khu vực
+arena : đấu trường
+argue : tranh luận
+argument : tranh luận
+arise : nảy sinh
+arm : cánh tay
+armed : trang bị
+army : quân đội
+around : xung quanh
+arrange : sắp xếp
+arrangement : sắp xếp
+array : mảng
+arrest : bắt giữ
+arrival : sự đến
+arrive : đến nơi
+arrow : mũi tên
+art : nghệ thuật
+article : bài báo
+articulate : khớp nối
+artifact : đồ tạo tác
+artificial : nhân tạo
+artist : họa sĩ
+artistic : nghệ thuật
+as : như
+ash : tro
+asian : châu á
+aside : qua một bên
+ask : hỏi
+asleep : ngủ
+aspect : khía cạnh
+ass : mông
+assault : tấn công
+assemble : tập hợp
+assembly : hội,, tổ hợp
+assert : khẳng định
+assess : đánh giá
+assessment : thẩm định, lượng định, đánh giá
+asset : tài sản
+assign : chỉ định
+assignment : nhiệm vụ
+assist : hỗ trợ
+assistance : hỗ trợ
+assistant : phụ tá
+associate : liên kết
+associated : liên kết
+association : hiệp hội
+assume : giả định
+assumption : giả thiết
+assure : cam đoan
+astronomer : nhà thiên văn học
+at : tại
+atmosphere : không khí
+atom : nguyên tử
+atop : trên
+attack : tấn công
+attach : đính kèm
+attempt : cố gắng
+attend : tham gia
+attendance : sự tham dự
+attention : chú ý
+attitude : thái độ
+attorney : luật sư
+attract : thu hút
+attraction : sức hút
+attractive : hấp dẫn
+attribute : thuộc tính
+athlete : lực sĩ
+athletic : khỏe mạnh
+auction : bán đấu giá
+audience : thính giả
+aunt : cô dì
+auto : tự động
+automatic : tự động
+automatically : tự động
+automobile : ôtô
+autonomy : tự trị
+author : tác giả
+authority : thẩm quyền
+authorize : cho phép
+availability : khả dụng
+available : có sẵn
+average : trung bình cộng
+avoid : tránh
+await : chờ đợi
+awake : thức tỉnh
+award : giải thưởng
+aware : ý thức
+awareness : nhận thức
+away : xa
+awful : kinh khủng
+baby : đứa bé
+back : trở lại
+background : lý lịch
+backyard : sân sau
+bacteria : vi khuẩn
+bad : xấu
+badly : tệ
+bag : túi
+bake : bake
+balance : cân đối
+balanced : cân bằng
+ball : trái bóng
+balloon : quả bóng bay
+ballot : phiếu
+ban : lệnh cấm
+banana : trái chuối
+band : ban nhạc
+bank : ngân hàng
+banker : chủ ngân hàng
+banking : ngân hàng
+bankruptcy : phá sản
+bar : quán ba
+bare : trần
+barely : vừa đủ
+barn : chuồng trại
+barrel : thùng
+barrier : rào chắn
+base : căn cứ
+baseball : bóng chày
+basement : tầng hầm
+basic : căn bản
+basically : về cơ bản
+basis : nền tảng
+basket : cái rổ
+basketball : bóng rổ
+bat : gậy
+battery : ắc quy
+battle : chiến đấu
+bath : bồn tắm
+bathroom : phòng tắm
+bay : bay
+be : được
+beach : bờ biển
+beam : chùm tia
+bean : hạt đậu
+bear : chịu
+beard : râu
+beast : quái thú
+beat : tiết tấu
+beautiful : đẹp
+beauty : sắc đẹp, vẻ đẹp
+because : bởi vì
+become : trở nên
+bed : giường
+bedroom : phòng ngủ
+bee : con ong
+beef : thịt bò
+been : đã
+beer : bia
+before : trước
+beg : ăn xin
+began : bắt đầu
+begin : bắt đầu
+beginning : bắt đầu
+behalf : thay mặt
+behave : hành xử
+behavior : hành vi
+behavioral : hành vi
+behind : phía sau
+being : đang
+belief : niềm tin
+believe : tin
+bell : chuông
+belly : bụng
+belong : thuộc về
+below : phía dưới
+belt : thắt lưng
+bench : băng ghế
+bend : bẻ cong
+beneath : ở trên
+benefit : lợi ích
+beside : bên cạnh
+besides : ngoài ra
+best : tốt
+bet : cá cược
+better : tốt hơn
+between : giữa
+beyond : vượt ra ngoài
+bias : sự thiên vị
+bible : kinh thánh
+bicycle : xe đạp
+bid : bid
+big : lớn
+bike : xe đạp
+bill : hóa đơn
+billion : tỷ
+bind : trói buộc
+biography : tiểu sử
+biology : sinh học
+biological : sinh học
+bird : chim
+birth : sinh
+birthday : sinh nhật
+bishop : giám mục
+bit : bit
+bite : cắn
+bitter : đắng
+black : đen
+blade : lưỡi
+blame : khiển trách
+blank : chỗ trống
+blanket : cái mền
+blast : vụ nổ
+blend : trộn
+bless : ban phước
+blessing : phước lành
+blind : mù quáng
+blink : chớp mắt
+block : khối
+blond : tóc vàng
+blood : máu
+bloody : dính máu
+blow : thổi
+blue : màu xanh da trời
+board : bảng
+boast : khoe khoan
+boat : thuyền
+body : thân hình
+boil : sôi lên
+bold : dũng cảm
+bolt : chớp
+bomb : bom
+bombing : ném bom
+bond : liên kết
+bone : khúc xương
+bonus : thưởng
+book : sách
+boom : sự bùng nổ
+boost : tăng
+boot : khởi động
+booth : gian hàng
+border : biên giới
+boring : nhàm chán
+born : sinh ra
+borrow : vay
+boss : trùm
+bottle : chai
+bottom : đáy
+both : cả hai
+bother : làm phiền
+bought : đã mua
+bounce : tung lên
+boundary : ranh giới
+bow : cây cung
+bowl : bát
+box : cái hộp
+boy : con trai
+boyfriend : bạn trai
+brain : óc
+brake : phanh
+branch : chi nhánh
+brand : nhãn hiệu
+brave : can đảm
+bread : bánh mỳ
+break : phá vỡ
+breakfast : bữa ăn sáng
+breast : nhũ hoa
+breath : hơi thở
+breathe : thở
+breathing : thở
+breeze : khoe khoang
+brick : gạch
+bride : cô dâu
+bridge : cầu
+brief : ngắn gọn
+briefly : ngắn gọn
+bright : sáng
+brilliant : rực rỡ
+bring : mang đến
+british : người anh
+broad : rộng lớn
+broadcast : phát sóng
+broke : đã phá vỡ
+broken : bị hỏng
+broker : người môi giới
+bronze : đồng
+brother : em trai
+brought : đưa
+brown : nâu
+brush : chải
+brutal : tàn bạo
+bubble : bong bóng
+buck : buck
+bucket : cái xô
+buddy : bạn bè
+budget : ngân sách
+bug : lỗi
+build : xây dựng
+builder : người xây dựng
+building : tòa nhà
+bulb : bóng đèn
+bulk : số lượng lớn
+bull : con bò
+bullet : đạn
+bunch : bó
+burden : gánh nặng
+bureau : phòng làm việc
+burn : đốt cháy
+burning : đốt
+burst : nổ
+bury : chôn
+bus : xe buýt
+bush : cây bụi
+business : kinh doanh
+businessman : doanh nhân
+busy : bận
+but : nhưng
+butt : mông
+butter : bơ
+butterfly : con bướm
+button : nút
+buy : mua
+buyer : người mua
+by : bởi
+c rack : bẻ khóa
+cab : taxi
+cabin : cabin
+cabinet : buồng
+cable : cáp
+cage : cái lồng
+cake : bánh ngọt
+calculate : tính toán
+calculation : phép tính
+calendar : lịch
+call : gọi
+calm : điềm tĩnh
+came : đã đến
+camera : máy ảnh
+camp : trại
+campaign : chiến dịch
+campus : khuôn viên
+can : có thể
+canadian : người canada
+cancel : hủy bỏ
+cancer : ung thư
+candidate : ứng viên
+candle : nến
+candy : cục kẹo
+canvas : tranh sơn dầu
+cap : mũ lưỡi trai
+capability : khả năng
+capable : có khả năng
+capacity : sức chứa
+capital : thủ đô
+captain : đội trưởng
+capture : nắm bắt
+car : xe hơi
+carbohydrate : carbohydrate
+carbon : carbon
+card : thẻ
+care : quan tâm
+career : nghề nghiệp
+careful : cẩn thận
+carefully : cẩn thận
+cargo : hàng hóa
+carpet : thảm
+carrier : vận chuyển
+carrot : cà rốt
+carry : mang
+cart : xe đẩy
+cartoon : hoạt hình
+carve : khắc chạm
+case : trường hợp
+cash : tiền mặt
+casino : casino
+cast : dàn diễn viên
+casual : giản dị
+casualty : tai nạn
+cat : con mèo
+catalog : mục lục
+catch : bắt lấy
+category : thể loại
+cattle : gia súc
+catholic : công giáo
+caught : bắt
+cause : nguyên nhân
+cave : hang
+cease : ngưng
+ceiling : trần nhà
+celebrate : ăn mừng
+celebration : lễ kỷ niệm
+celebrity : người nổi tiếng
+cell : tế bào
+cemetery : nghĩa trang
+cent : cent
+center : trung tâm
+century : thế kỷ
+central : trung tâm
+ceo : ceo
+ceremony : lễ
+certain : chắc chắn
+certainly : chắc chắn
+cigarette : thuốc lá
+circle : vòng tròn
+circuit : mạch
+circumstance : tình huống
+cite : trích dẫn
+citizen : công dân
+citizenship : quyền công dân
+city : thành phố
+civic : công dân
+civil : dân sự
+civilian : dân thường
+civilization : nền văn minh
+claim : yêu cầu
+class : lớp học
+classic : cổ điển
+classical : cổ điển
+classify : phân loại
+classroom : phòng học
+clay : đất sét
+clean : dọn dẹp
+clear : trong sáng
+clearly : thông suốt
+clerk : nhân viên bán hàng
+click : nhấp chuột
+client : khách hàng
+cliff : vách đá
+climate : khí hậu
+climb : leo
+clinic : phòng khám bệnh
+clinical : lâm sàng
+cling : bám lấy
+clip : kẹp
+clock : đồng hồ
+close : gần
+closed : đóng
+closely : chặt chẽ
+closer : gần hơn
+closest : gần nhất
+closet : tủ quần áo
+cloth : vải
+clothe : trang phục
+clothes : quần áo
+clothing : quần áo
+cloud : đám mây
+club : câu lạc bộ
+clue : manh mối
+cluster : cụm
+coach : huấn luyện viên
+coal : than
+coalition : liên minh
+coast : bờ biển
+coastal : duyên hải
+coat : áo khoác
+cocaine : cocaine
+code : mã
+coffee : cà phê
+cognitive : nhận thức
+coin : đồng tiền
+cold : lạnh
+collaboration : hợp tác
+collapse : sự sụp đổ
+collar : cổ áo
+colleague : đồng nghiệp
+collect : sưu tầm
+collection : bộ sưu tập
+collective : tập thể
+collector : người thu gom
+college : trường đại học
+colonial : thuộc địa
+colony : thuộc địa
+color : màu
+colorful : đầy màu sắc
+column : cột
+columnist : nhà bình luận viên
+combat : chống lại
+combination : sự phối hợp
+combine : phối hợp
+combined : kết hợp
+come : đến
+comedy : phim hài
+comfort : thoải mái
+comfortable : thoải mái
+coming : đang đến
+command : chỉ huy
+commander : chỉ huy
+comment : bình luận
+commercial : thương mại
+commission : uỷ ban
+commissioner : ủy viên
+commit : cam kết
+commitment : cam kết
+committee : ủy ban
+commodity : hàng hóa
+common : chung
+commonly : thông thường
+communicate : giao tiếp
+communication : giao tiếp
+community : cộng đồng
+companion : đồng hành
+company : công ty
+comparable : so sánh
+compare : so sánh
+comparison : so sánh
+compel : bắt buộc
+compelling : thuyết phục
+compensation : đền bù
+compete : cạnh tranh
+competition : cuộc thi
+competitive : cạnh tranh
+competitor : đối thủ
+complain : than phiền
+complaint : lời phàn nàn
+complete : hoàn thành
+completely : hoàn toàn
+complex : phức tạp
+complexity : phức tạp
+compliance : sự tuân thủ
+complicated : phức tạp
+comply : tuân theo
+component : thành phần
+compose : soạn, biên soạn
+composition : thành phần
+compound : hợp chất
+comprehensive : toàn diện
+comprise : bao gồm
+compromise : thỏa hiệp
+computer : máy vi tính
+concede : công nhận
+conceive : thụ thai
+concentrate : tập trung
+concentration : sự tập trung
+concept : khái niệm
+conception : quan niệm
+concern : mối quan ngại
+concerned : liên quan
+concerning : có liên quan
+concert : buổi hòa nhạc
+conclude : kết luận
+conclusion : phần kết luận
+concrete : bê tông
+condemn : lên án
+condition : điều kiện
+conduct : hạnh kiểm
+conference : hội nghị
+confess : xưng
+confession : lời thú tội
+confidence : sự tự tin
+confident : tự tin
+confirm : xác nhận
+conflict : cuộc xung đột
+confront : đối đầu
+confrontation : đối đầu
+confuse : nhầm lẫn
+confusion : sự nhầm lẫn
+connect : kết nối
+connection : kết nối
+conscience : lương tâm
+conscious : có ý thức
+consciousness : ý thức
+consecutive : liên tiếp
+consensus : sự đồng thuận
+consent : bằng lòng
+consequence : hậu quả
+consequently : hậu quả là
+conservation : bảo tồn
+conservative : thận trọng
+consider : xem xét
+considerable : đáng kể
+considerably : đáng kể
+consideration : xem xét
+consist : bao gồm
+consistent : thích hợp
+consistently : nhất quán
+consonant : phụ âm
+conspiracy : âm mưu
+constant : không thay đổi
+constantly : liên tục
+constitute : cấu tạo
+constitution : hiến pháp
+constitutional : hiến pháp
+constraint : hạn chế
+construct : xây dựng
+construction : xây dựng
+consult : tham khảo ý kiến
+consultant : tư vấn
+consume : tiêu dùng
+consumer : khách hàng
+consumption : tiêu dùng
+contact : tiếp xúc
+contain : chứa
+container : thùng đựng hàng
+contemplate : thưởng ngoạn
+contemporary : đồng thời
+contend : đấu tranh
+content : nội dung
+contest : cuộc thi
+context : bối cảnh
+continent : lục địa
+continue : tiếp tục
+continued : tiếp tục
+continuing : tiếp tục
+continuous : liên tiếp
+contract : hợp đồng
+contractor : nhà thầu
+contrast : tương phản
+contribute : góp phần
+contribution : sự đóng góp
+contributor : người đóng góp
+control : điều khiển
+controversial : gây tranh cãi
+controversy : tranh cãi
+convenience : tiện
+convention : quy ước
+conventional : thông thường
+conversation : cuộc hội thoại
+conversion : chuyển đổi
+convert : đổi
+convey : chuyên chở
+convict : tù nhân
+conviction : lòng tin chắc, sự kết án, phán quyết
+convince : thuyết phục
+convinced : thuyết phục
+congress : hội nghị
+congressional : quốc hội
+cook : nấu ăn
+cookie : bánh quy
+cooking : nấu nướng
+cool : mát mẻ
+cooperate : hợp tác
+cooperation : hợp tác
+cooperative : hợp tác xã
+coordinator : điều phối viên
+cop : cảnh sát
+cope : đối phó
+copy : sao chép
+cord : dây
+core : cốt lõi
+corn : ngô
+corner : góc
+corporate : công ty
+corporation : tập đoàn
+correct : chính xác
+correctly : đúng
+correlation : tương quan
+correspondent : phóng viên
+corridor : hành lang
+corruption : tham nhũng
+cost : giá cả
+costly : tốn kém
+costume : trang phục
+cottage : nhà tranh
+cotton : bông
+couch : đi văng
+could : có thể
+council : hội đồng
+counsel : lời khuyên
+counseling : tư vấn
+counselor : cố vấn
+count : đếm
+counter : quầy tính tiền
+counterpart : đối tác
+county : quận
+country : quốc gia
+coup : cuộc đảo chính
+couple : vợ chồng
+courage : lòng can đảm
+course : khóa học
+court : tòa án
+courtroom : phòng xử án
+cousin : anh chị em họ
+cover : che
+coverage : phủ sóng
+cow : bò
+craft : nghề thủ công
+crash : tai nạn
+crawl : thu thập thông tin
+crazy : khùng
+cream : kem
+crease : nếp gấp
+create : tạo nên
+creation : sự sáng tạo
+creative : sáng tạo
+creativity : sáng tạo
+creature : sinh vật
+credibility : uy tín
+credit : tín dụng
+crew : phi hành đoàn
+crime : tội ác
+criminal : phạm tội
+crisis : khủng hoảng
+criteria : tiêu chuẩn
+critic : nhà phê bình
+critical : chỉ trích
+criticism : sự chỉ trích
+criticize : chỉ trích
+crop : mùa vụ
+cross : vượt qua
+crowd : đám đông
+crowded : đông người
+crucial : quan trọng
+cruel : hung ác
+cruise : du lịch
+crush : nghiền nát
+cry : khóc
+crystal : pha lê
+cuban : cuba
+cue : gợi ý
+cultural : văn hoá
+culture : nền văn hóa
+cup : tách
+cure : chữa khỏi
+curiosity : sự tò mò
+curious : hiếu kỳ
+currency : tiền tệ
+current : hiện hành
+currently : hiện tại
+curriculum : chương trình giáo dục
+curtain : tấm màn
+curve : đường cong
+custody : quyền nuôi con
+custom : tập quán
+customer : khách hàng
+cut : cắt tỉa
+cute : dễ thương
+cycle : chu kỳ
+chain : chuỗi
+chair : cái ghế
+chairman : chủ tịch
+challenge : thử thách
+chamber : buồng
+champion : quán quân
+championship : chức vô địch
+chance : cơ hội
+channel : kênh
+change : thay đổi
+changing : thay đổi
+chaos : hỗn loạn
+chapter : chương
+character : tính cách
+characteristic : đặc trưng
+characterize : đặc trưng
+charge : sạc điện
+charity : từ thiện
+charm : quyến rũ
+chart : đồ thị
+charter : điều lệ
+chase : đuổi theo
+cheap : giá rẻ
+cheat : lừa đảo
+check : kiểm tra
+cheek : má
+cheer : vui lên
+cheese : phô mai
+chef : đầu bếp
+chemical : hóa chất
+chemistry : hóa học
+chest : ngực
+chew : nhai
+chick : chick
+chicken : gà
+chief : giám đốc
+child : đứa trẻ
+childhood : thời thơ ấu
+children : bọn trẻ
+chill : làm lạnh
+chin : cái cằm
+chinese : trung quốc
+chip : chip
+chocolate : sô cô la
+choice : lựa chọn
+cholesterol : cholesterol
+choose : chọn
+chop : chặt
+chord : dây nhau
+christian : christian
+christianity : cơ đốc giáo
+christmas : giáng sinh
+chronic : mãn tính
+chunk : mảnh
+church : nhà thờ
+dad : cha
+daily : hằng ngày
+dam : con đập
+damage : hư hại
+damn : chỉ trích
+dance : nhảy
+dancer : vũ công
+dancing : khiêu vũ
+danger : nguy hiểm
+dangerous : nguy hiểm
+dare : dám
+dark : tối
+darkness : bóng tối
+data : dữ liệu
+database : cơ sở dữ liệu
+date : ngày
+daughter : con gái
+dawn : bình minh
+day : ngày
+dead : đã chết
+deadline : hạn chót
+deadly : chết người
+deal : thỏa thuận
+dealer : người buôn bán
+dear : kính thưa
+death : tử vong
+debate : tranh luận
+debris : mảnh vụn
+debt : món nợ
+debut : ra mắt
+decade : thập kỷ
+decent : phong nha
+decide : quyết định
+decimal : thập phân
+decision : phán quyết
+deck : boong
+declare : khai
+decline : từ chối
+decorate : trang trí
+decrease : giảm bớt
+dedicate : dâng hiến
+deem : thấy
+deep : sâu
+deeply : sâu sắc
+deer : con nai
+defeat : đánh bại
+defend : phòng thủ
+defendant : bị cáo
+defender : hậu vệ
+defense : phòng thủ
+defensive : phòng ngự
+deficit : thâm hụt
+define : định nghĩa
+definitely : chắc chắn
+definition : định nghĩa
+degree : trình độ
+delay : sự chậm trễ
+deliberately : thong thả
+delicate : tinh tế
+delight : hân hoan
+deliver : giao hàng
+delivery : chuyển
+demand : nhu cầu
+democracy : dân chủ
+democrat : dân chủ
+democratic : dân chủ
+demographic : nhân khẩu học
+demonstrate : chứng minh
+demonstration : trình diễn
+denial : từ chối
+dense : dày đặc
+density : tỉ trọng
+deny : phủ nhận
+depart : khởi hành
+department : bộ phận
+departure : khởi hành
+depend : tùy theo
+dependent : phụ thuộc
+depending : tùy
+depict : miêu tả
+deploy : triển khai
+deposit : tiền gửi
+depressed : suy sụp
+depression : phiền muộn
+depth : chiều sâu
+deputy : phó
+derive : lấy được
+descend : hạ xuống
+describe : miêu tả
+description : sự miêu tả
+desert : sa mạc
+deserve : xứng đáng
+design : thiết kế
+designer : nhà thiết kế
+desire : khao khát
+desk : bàn
+desperate : tuyệt vọng
+desperately : tuyệt vọng
+despite : mặc dù
+dessert : món tráng miệng
+destination : nơi đến
+destroy : hủy hoại
+destruction : sự phá hủy
+detail : chi tiết
+detailed : chi tiết
+detect : phát hiện
+detective : thám tử
+determination : sự quyết tâm
+determine : mục đích
+devastating : tàn phá
+develop : phát triển, xây dựng
+developer : nhà phát triển
+developing : phát triển
+development : phát triển
+developmental : phát triển
+device : thiết bị
+devil : ác quỷ
+devote : cống hiến
+diabetes : bệnh tiểu đường
+diagnose : chẩn đoán
+diagnosis : chẩn đoán
+dialogue : đối thoại
+diamond : kim cương
+diary : nhật ký
+dictate : điều khiển
+dictionary : từ điển
+did : đã làm
+die : chết
+diet : chế độ ăn
+differ : khác nhau
+difference : sự khác biệt
+different : khác nhau
+differently : khác
+difficult : khó khăn
+difficulty : khó khăn
+dig : đào
+dignity : phẩm giá
+digital : kỹ thuật số
+dilemma : tình trạng khó xử
+dimension : kích thước
+diminish : suy giảm
+dining : ăn uống
+dinner : bữa tối
+dip : nhúng
+diplomat : nhà ngoại giao
+diplomatic : ngoại giao
+direct : thẳng thắn
+direction : phương hướng
+directly : trực tiếp
+director : giám đốc
+dirt : bẩn
+dirty : dơ bẩn
+disability : khuyết tật
+disabled : tàn tật
+disagree : không đồng ý
+disappear : biến mất
+disappointed : thất vọng
+disappointment : thất vọng
+disaster : thảm họa
+disc : đĩa
+discipline : kỷ luật
+disclose : tiết lộ
+discount : giảm giá
+discourage : gây chán nản cho
+discourse : đàm luận
+discover : khám phá
+discovery : khám phá
+discrimination : kỳ thị
+discuss : bàn luận
+discussion : thảo luận
+disease : dịch bệnh
+dish : món ăn
+disk : đĩa
+dismiss : bỏ qua
+disorder : rối loạn
+display : trưng bày
+dispute : tranh chấp
+dissolve : giải thể
+distance : khoảng cách
+distant : xa xôi
+distinct : khác biệt
+distinction : phân biệt
+distinctive : đặc biệt
+distinguish : phân biệt
+disturb : xáo trộn
+disturbing : phiền
+distract : làm mất tập trung
+distribute : phân phát
+distribution : phân phối
+district : huyện
+diverse : phong phú
+diversity : sự đa dạng
+divide : chia
+divine : thần thánh
+division : phân chia
+divorce : ly hôn
+dna : dna
+do : làm
+dock : bến tàu
+doctor : bác sĩ
+doctrine : học thuyết
+document : tài liệu
+documentary : phim tài liệu
+does : làm
+dog : chó
+doll : búp bê
+dollar : đô la
+domain : miền
+domestic : trong nước
+dominant : có ưu thế
+dominate : thống trị
+donate : hiến tặng
+donation : quyên góp
+done : làm xong
+donor : nhà tài trợ
+don't : không
+door : cửa
+doorway : lối vào
+dose : liều
+dot : dấu chấm
+double : gấp đôi
+doubt : nghi ngờ
+dough : bột
+down : xuống
+downtown : trung tâm thành phố
+dozen : tá
+draft : bản nháp
+drag : kéo
+drain : ráo nước
+drama : kịch
+dramatic : kịch tính
+dramatically : đột ngột
+draw : vẽ tranh
+drawer : ngăn kéo
+drawing : vẽ
+dream : mơ tưởng
+dress : trang phục
+dried : khô
+drift : trôi dạt
+drill : máy khoan
+drink : uống
+drinking : uống
+drive : lái xe
+driver : người lái xe
+driveway : đường lái xe
+driving : điều khiển
+drop : rơi vãi
+drown : chết chìm
+drug : thuốc uống
+drum : trống
+drunk : say
+dry : khô
+duck : con vịt
+due : đến hạn
+dumb : ngớ ngẩn
+dump : đổ
+during : suốt trong
+dust : bụi bặm
+dutch : người hà lan
+duty : nhiệm vụ
+dying : chết
+dynamic : năng động
+dynamics : động lực học
+each : mỗi
+eager : hăng hái
+ear : tai
+early : sớm
+earn : kiếm
+earnings : thu nhập
+earth : trái đất
+earthquake : động đất
+ease : giảm bớt
+easily : dễ dàng
+east : đông
+eastern : phương đông
+easy : dễ dàng
+eat : ăn
+eating : ăn
+ecological : sinh thái
+economic : thuộc kinh tế
+economically : kinh tế
+economics : kinh tế học
+economist : nhà kinh tế học
+economy : nên kinh tê
+ecosystem : hệ sinh thái
+echo : echo
+edge : cạnh
+edit : chỉnh sửa
+edition : phiên bản
+editor : người biên tập
+educate : giáo dục
+education : giáo dục
+educational : giáo dục
+educator : nhà giáo dục
+effect : hiệu ứng
+effective : có hiệu lực
+effectively : có hiệu quả
+effectiveness : hiệu quả
+efficiency : hiệu quả
+efficient : hiệu quả
+effort : cố gắng
+egg : trứng
+ego : tự ngã
+eight : tám
+eighth : thứ tám
+either : hoặc
+elaborate : kỹ lưỡng
+elbow : khuỷu tay
+elder : đàn anh
+elderly : người lớn tuổi
+elect : trúng tuyển
+election : cuộc bầu cử
+electric : điện
+electrical : điện
+electricity : điện
+electronic : điện tử
+electronics : thiết bị điện tử
+elegant : thanh lịch
+element : thành phần
+elementary : tiểu học
+elephant : con voi
+elevator : thang máy
+eleven : mười một
+eligible : hội đủ điều kiện
+eliminate : loại bỏ
+elite : ưu tú
+else : khác
+elsewhere : ở nơi khác
+email : e-mail
+embarrassed : xấu hổ
+embrace : ôm hôn
+emerge : hiện ra
+emergency : trường hợp khẩn cấp
+emerging : mới nổi
+emission : khí thải
+emotion : cảm xúc
+emotional : đa cảm
+emotionally : tình cảm
+empire : đế chế
+employ : thuê
+employee : nhân viên
+employer : nhà tuyển dụng
+employment : việc làm
+empty : trống
+emphasis : nhấn mạnh
+emphasize : nhấn mạnh
+enable : cho phép
+enact : ban hành
+encounter : gặp gỡ
+encourage : khuyến khích
+encouraging : khuyến khích
+end : kết thúc
+endless : bất tận
+endorse : chứng thực
+endure : chịu đựng
+enemy : kẻ thù
+energy : năng lượng
+enforce : thi hành
+enforcement : thực thi
+enjoy : thưởng thức
+enormous : to lớn
+enough : đủ
+enroll : ghi danh
+ensure : đảm bảo
+enter : đi vào
+enterprise : doanh nghiệp
+entertainment : sự giải trí
+entire : toàn bộ
+entirely : hoàn toàn
+entitle : quyền lợi
+entity : thực thể
+enthusiasm : hăng hái
+entrance : cổng vào
+entrepreneur : doanh nhân
+entry : nhập cảnh
+envelope : phong bì
+environment : môi trường
+environmental : môi trường
+envision : hình dung
+engage : thuê
+engagement : hôn ước
+engine : động cơ
+engineer : kỹ sư
+engineering : kỹ thuật
+english : anh
+enhance : nâng cao
+epidemic : bệnh dịch
+episode : tập phim
+equal : công bằng
+equality : bình đẳng
+equally : bằng nhau
+equate : cân bằng
+equation : phương trình
+equip : trang bị
+equipment : trang thiết bị
+equity : công bằng
+equivalent : tương đương
+era : kỷ nguyên
+error : lỗi
+escape : thoát khỏi
+especially : đặc biệt
+essay : tiểu luận
+essence : bản chất
+essential : cần thiết
+essentially : bản chất
+establish : thành lập
+establishment : thành lập
+estate : bất động sản
+estimate : ước tính
+estimated : ước tính
+etc : vv
+ethical : đạo đức
+ethics : đạo đức
+ethnic : dân tộc
+european : châu âu
+evaluate : đánh giá
+evaluation : đánh giá
+even : cũng
+evening : tối
+event : biến cố
+eventually : cuối cùng
+ever : không bao giờ
+every : mỗi
+everybody : mọi người
+everyday : mỗi ngày
+everyone : tất cả mọi người
+everything : mọi điều
+everywhere : mọi nơi
+evidence : chứng cớ
+evident : hiển nhiên
+evil : tà ác
+evolution : sự phát triển
+evolve : phát triển
+exact : chính xác
+exactly : chính xác
+exam : thi
+examination : kiểm tra
+examine : xem xét
+example : thí dụ
+exceed : quá
+excellent : xuất sắc
+except : ngoại trừ
+exception : ngoại lệ
+excessive : quá đáng
+excite : kích thích
+excited : bị kích thích
+excitement : sự phấn khích
+exciting : thú vị
+exclude : loại trừ
+exclusive : độc quyền
+exclusively : duy nhất
+excuse : tha
+exchange : trao đổi, giao dịch
+execute : thi hành
+execution : chấp hành
+executive : điều hành
+exercise : tập thể dục
+exhaust : thoát ra
+exhibit : triển lãm
+exhibition : triển lãm
+exist : hiện hữu
+existence : sự tồn tại
+existing : hiện tại
+exit : lối thoát
+exotic : kỳ lạ
+expand : mở rộng
+expansion : sự bành trướng
+expect : chờ đợi
+expectation : sự mong đợi
+expected : kỳ vọng
+expedition : thám hiểm
+expense : chi phí
+expensive : đắt
+experience : kinh nghiệm
+experienced : có kinh nghiệm
+experiment : thí nghiệm
+experimental : thử nghiệm
+expert : chuyên gia
+expertise : chuyên môn
+explain : giải thích
+explanation : giải trình
+explicit : rõ ràng
+explo de : nổ tung
+exploit : khai thác
+exploration : thăm dò
+explore : khám phá
+explosion : nổ
+export : xuất khẩu
+expose : lộ ra
+exposure : phơi bày
+express : bày tỏ
+expression : biểu hiện
+extend : mở rộng
+extended : mở rộng
+extension : sự mở rộng
+extensive : sâu rộng
+extent : phạm vi
+external : bên ngoài
+extra : thêm
+extraordinary : bất thường
+extreme : cực
+extremely : vô cùng
+eye : mắt
+eyebrow : lông mày
+fabric : vải
+face : đối mặt
+facilitate : tạo điều kiện
+facility : cơ sở
+fact : thực tế
+factor : hệ số
+factory : nhà máy
+faculty : giảng viên
+fade : phai màu
+fail : thất bại
+failure : thất bại
+faint : mờ nhạt
+fair : hội chợ
+fairly : công bằng
+faith : đức tin
+fall : ngã
+false : sai
+fame : danh tiếng
+familiar : quen
+family : gia đình
+famous : nổi danh
+fan : quạt
+fantastic : tuyệt diệu
+fantasy : tưởng tượng
+far : xa
+fare : giá vé
+farm : nông trại
+farmer : nông phu
+fascinating : hấp dẫn
+fashion : thời trang
+fast : nhanh
+faster : nhanh hơn
+fat : mập
+fatal : gây tử vong
+fate : số phận
+fatigue : mệt mỏi
+father : cha
+fault : lỗi
+favor : ủng hộ
+favorable : thuận lợi
+favorite : yêu thích
+fear : nỗi sợ
+feature : đặc tính
+feather : lông vũ
+federal : liên bang
+fee : chi phí
+feed : nuôi
+feedback : phản hồi
+feel : cảm thấy
+feeling : cảm giác
+feet : đôi chân
+fell : rơi
+fellow : đồng bào
+felt : cảm thấy
+female : giống cái
+feminist : nữ quyền sĩ
+fence : hàng rào
+festival : lễ hội
+fever : sốt
+few : vài
+fewer : ít hơn
+fiber : chất xơ
+fiction : viễn tưởng
+field : cánh đồng
+fierce : khốc liệt
+fifteen : mười lăm
+fifty : năm mươi
+fifth : thứ năm
+fig : sung
+fight : chiến đấu
+fighter : đấu sĩ
+fighting : trận đánh
+figure : nhân vật
+file : tập tin
+fill : lấp đầy
+film : phim ảnh
+filter : lọc
+final : sau cùng
+finally : cuối cùng
+finance : tài chính
+financial : tài chính
+find : tìm thấy
+finding : phát hiện
+fine : khỏe
+finish : hoàn thành
+finger : ngón tay
+fire : ngọn lửa
+firm : chắc chắn
+firmly : vững chắc
+first : đầu tiên
+fiscal : tài chính
+fish : cá
+fisherman : ngư dân
+fishing : đánh bắt cá
+fist : nắm tay
+fit : phù hợp
+fitness : sự tập thể dục
+five : số năm
+fix : sửa chữa
+fixed : đã sửa
+flag : cờ
+flame : ngọn lửa
+flash : đèn flash
+flat : bằng phẳng
+flavor : hương vị
+flee : chạy trốn
+fleet : hạm đội
+flesh : xác thịt
+flexibility : mềm dẻo
+flexible : linh hoạt
+flight : chuyến bay
+flip : lật
+float : phao
+flood : lũ
+floor : sàn nhà
+flour : bột mì
+flow : lưu lượng
+flower : hoa
+fluid : chất lỏng
+fly : bay
+flying : bay
+focus : tiêu điểm
+fog : sương mù
+fold : gập lại
+folk : dân gian
+follow : theo
+following : tiếp theo
+food : món ăn
+fool : ngu xuẩn
+foot : chân
+football : bóng đá
+for : cho
+forbid : ngăn cấm
+force : lực lượng
+forehead : trán
+foreign : ngoại quốc
+foreigner : người nước ngoài
+forest : rừng
+forever : mãi mãi
+forget : quên
+forgive : tha lỗi
+fork : cái nĩa
+form : hình thức
+formal : chính thức
+format : định dạng
+formation : sự hình thành
+former : trước đây
+formerly : trước kia
+formula : công thức
+fortunately : may mắn
+fortune : vận may
+forty : bốn mươi
+forth : ra
+forum : diễn đàn
+forward : phía trước
+foster : nuôi dưỡng
+found : tìm
+foundation : nền tảng
+founder : người sáng lập
+four : bốn
+fourth : thứ tư
+fraction : phân số
+fragment : miếng
+fragile : mong manh
+frame : khung
+framework : khuôn khổ
+franchise : nhượng quyền thương mại
+frankly : thẳng thắn
+fraud : gian lận
+free : miễn phí
+freedom : sự tự do
+freely : tự do
+freeze : đông cứng
+french : người pháp
+frequency : tần số
+frequent : thường xuyên
+frequently : thường xuyên
+fresh : tươi
+freshman : sinh viên năm nhất
+friend : người bạn
+friendly : thân thiện
+friendship : hữu nghị
+from : từ
+front : trước mặt
+frontier : biên giới
+frown : nhăn mặt
+frozen : đông lạnh
+fruit : trái cây
+frustrate : thất vọng
+frustration : thất vọng
+fucking : fucking
+fuel : nhiên liệu
+full : đầy
+fulltime : toàn thời gian
+fully : đầy đủ
+fun : vui vẻ
+function : chức năng
+functional : chức năng
+fund : quỹ
+fundamental : căn bản
+funding : kinh phí
+funeral : tang lễ
+funny : buồn cười
+fur : lông thú
+furniture : đồ nội thất
+furthermore : hơn nữa
+future : tương lai
+gain : thu được
+galaxy : thiên hà
+gallery : bộ sưu tập
+game : trò chơi
+gang : băng nhóm
+gap : lỗ hổng
+garage : gara
+garbage : rác thải
+garden : vườn
+garlic : tỏi
+gas : khí đốt
+gasoline : xăng
+gate : cánh cổng
+gather : tụ họp
+gathering : thu thập
+gave : đưa ra
+gay : gay
+gaze : nhìn chằm chằm
+gear : hộp số
+gender : giới tính
+gene : gen
+general : chung
+generally : nói chung là
+generate : tạo ra
+generation : thế hệ
+generous : hào phóng
+genetic : di truyền
+genius : thiên tài
+genre : thể loại
+gentle : dịu dàng
+gentleman : quý ông
+gently : dịu dàng
+genuine : chính hãng
+german : tiếng đức
+gesture : cử chỉ
+get : được
+ghost : ma
+glad : vui vẻ
+glance : nháy mắt
+glass : ly
+glimpse : nhìn thoáng qua
+global : toàn cầu
+globe : quả địa cầu
+glory : vinh quang
+glove : găng tay
+go : đi
+goal : mục tiêu
+goat : con dê
+god : thần
+gold : vàng
+golden : vàng
+golf : golf
+gone : không còn
+good : tốt
+good (pl) : tốt (pl)
+got : có
+govern : quản lý
+government : chính quyền
+governor : thống đốc
+grab : vồ lấy
+grace : ân sủng
+grade : cấp
+gradually : dần dần
+graduate : tốt nghiệp
+graduation : tốt nghiệp
+grain : ngũ cốc
+grand : lớn
+grandchild : cháu ngoại
+grandfather : ông nội
+grandmother : bà ngoại
+grandparent : ông bà
+grant : ban cho
+grape : giống nho
+grasp : sự hiểu biết
+grass : cỏ
+grateful : tri ân
+grave : phần mộ
+gravity : nghiêm trọng
+gray : màu xám
+great : tuyệt quá
+greatest : vĩ đại nhất
+greatly : rất nhiều
+greek : người hy lạp
+green : màu xanh lá
+greet : chào hỏi
+grew : lớn lên
+grief : đau buồn
+grin : nụ cười
+grip : nắm chặt
+grocery : tạp hóa
+gross : tổng
+ground : đất
+group : nhóm
+grow : lớn lên
+growing : phát triển
+growth : sự phát triển
+guarantee : bảo hành
+guard : bảo vệ
+guess : phỏng đoán
+guest : khách
+guidance : hướng dẫn
+guide : hướng dẫn
+guideline : hướng dẫn
+guilt : tội lỗi
+guilty : tội lỗi
+guitar : đàn ghi ta
+gun : súng
+gut : ruột
+guy : chàng
+gym : phòng thể dục
+giant : khổng lồ
+gift : quà tặng
+gifted : năng khiếu
+girl : con gái
+girlfriend : bạn gái
+give : đưa cho
+given : được
+ha : ha
+habit : thói quen
+habitat : môi trường sống
+had : đã có
+hair : tóc
+half : một nửa
+halfway : nửa chừng
+hall : đại sảnh
+hallway : hành lang
+hand : tay
+handful : ít
+handle : xử lý
+handsome : đẹp
+hang : treo
+happen : xảy ra
+happily : hạnh phúc
+happiness : hạnh phúc
+happy : vui mừng
+harassment : quấy rối
+hard : cứng
+hardly : khó khăn
+hardware : phần cứng
+harm : làm hại
+harmony : hòa hợp
+harsh : khắc nghiệt
+harvest : mùa gặt
+has : có
+hat : nón
+hate : ghét bỏ
+haul : lôi
+have : có
+hazard : nguy hiểm
+he : anh ta
+head : cái đầu
+headache : đau đầu
+headline : tiêu đề
+headquarters : trụ sở chính
+heal : chữa lành
+health : sức khỏe
+healthy : khỏe mạnh
+hear : nghe
+heard : nghe
+hearing : thính giác
+heart : tim
+heat : nhiệt
+heaven : thiên đường
+heavily : nặng nề
+heavy : nặng
+heel : gót chân
+height : chiều cao
+held : được tổ chức
+helicopter : máy bay trực thăng
+hell : địa ngục
+hello : xin chào
+helmet : mũ bảo hiểm
+help : cứu giúp
+helpful : hữu ích
+hence : vì thế
+her : cô ấy
+herb : thảo mộc
+here : đây
+heritage : gia tài
+hero : anh hùng
+hers : của cô ấy
+herself : cô ấy
+hesitate : do dự
+hey : chào
+hi : chào
+hidden : ẩn
+hide : ẩn giấu
+high : cao
+highlight : điểm nổi bật
+highly : cao
+hightech : công nghệ cao
+highway : xa lộ
+hike : đi lang thang
+hill : đồi núi
+him : anh ta
+himself : bản thân anh ấy
+hint : dấu
+hip : hông
+hire : thuê mướn
+his : của anh ấy
+hispanic : người hispanic
+historian : nhà sử học
+historic : mang tính lịch sử
+historical : lịch sử
+historically : lịch sử
+history : lịch sử
+hit : đánh
+hockey : khúc côn cầu
+hold : giữ
+hole : lỗ
+holiday : ngày lễ
+holy : thánh
+home : nhà
+homeland : quê hương
+homeless : vô gia cư
+homework : bài tập về nhà
+honest : thật thà
+honestly : thành thật
+honey : mật ong
+honor : tôn vinh
+hook : cái móc
+hope : mong
+hopefully : hy vọng
+horizon : đường chân trời
+hormone : hoocmon
+horn : sừng
+horrible : kinh khủng
+horror : kinh dị
+horse : con ngựa
+hospital : bệnh viện
+host : chủ nhà
+hostage : con tin
+hostile : hostile
+hot : nóng bức
+hotel : khách sạn
+hour : giờ
+house : nhà ở
+household : hộ gia đình
+housing : nhà ở
+how : làm sao
+however : tuy nhiên
+hug : ôm
+huge : khổng lồ
+huh : huh
+human : nhân loại
+humanity : nhân loại
+humor : hài hước
+hundred : hàng trăm
+hunt : săn bắn
+hunter : thợ săn
+hunting : săn bắn
+hunger : đói
+hungry : đói bụng
+hurricane : bão
+hurry : vội
+hurt : đau
+husband : người chồng
+hypothesis : giả thuyết
+i : tôi
+ice : nước đá
+icon : biểu tượng
+idea : ý kiến
+ideal : lý tưởng
+identical : giống nhau
+identification : nhận biết
+identify : nhận định
+identity : danh tính
+ideology : hệ tư tưởng
+ideological : ý thức hệ
+ie : nghĩa là
+if : nếu
+ignore : bỏ qua
+ill : bệnh
+illegal : bất hợp pháp
+illness : bệnh
+illusion : ảo giác
+illustrate : minh họa
+image : hình ảnh
+imagination : trí tưởng tượng
+imagine : tưởng tượng
+immediate : ngay lập tức
+immediately : ngay
+immigrant : di trú
+immigration : nhập cư
+immune : miễn dịch
+impact : va chạm
+implement : thực hiện
+implementation : thực hiện
+implication : hàm ý
+imply : ngụ ý
+import : nhập khẩu
+importance : tầm quan trọng
+important : quan trọng
+importantly : quan trọng
+impose : áp đặt
+impossible : không thể nào
+impress : gây ấn tượng
+impression : ấn tượng
+impressive : ấn tượng
+improve : cải tiến
+improved : cải tiến
+improvement : cải tiến
+impulse : thúc đẩy
+in : trong
+incentive : khuyến khích
+incident : biến cố
+include : bao gồm
+including : kể cả
+income : thu nhập
+incorporate : kết hợp
+increase : tăng
+increased : tăng
+increasing : tăng
+increasingly : ngày càng
+incredible : đáng kinh ngạc
+incredibly : vô cùng
+inch : inch
+indeed : thật
+independence : độc lập
+independent : độc lập
+index : mục lục
+indian : người ấn độ
+indicate : biểu thị
+indication : dấu hiệu
+indicator : chỉ thị
+indigenous : bản địa
+individual : cá nhân
+industrial : công nghiệp
+industry : ngành công nghiệp
+inevitable : chắc chắn xảy ra
+inevitably : chắc chắn
+infant : trẻ sơ sinh
+infection : nhiễm trùng
+inflation : lạm phát
+influence : ảnh hưởng
+influential : có ảnh hưởng
+inform : thông báo
+informal : không chính thức
+information : thông tin
+infrastructure : cơ sở hạ tầng
+initial : ban đầu
+initially : ban đầu
+initiate : bắt đầu
+initiative : sáng kiến
+injure : làm bị thương
+injury : chấn thương
+inmate : tù nhân
+inner : bên trong
+innocent : vô tội
+innovation : đổi mới
+innovative : sáng tạo
+input : đầu vào
+inquiry : yêu cầu
+insect : côn trùng
+insert : chèn
+inside : phía trong
+insight : cái nhìn sâu sắc
+insist : năn nỉ
+inspection : kiểm tra
+inspector : thanh tra
+inspiration : cảm hứng
+inspire : truyền cảm hứng
+install : cài đặt, dựng lên
+installation : cài đặt
+instance : ví dụ
+instant : tức thời
+instantly : ngay lập tức
+instead : thay thế
+instinct : bản năng
+institution : tổ chức
+institutional : thể chế
+instruct : dạy
+instruction : chỉ dẫn
+instructional : hướng dẫn
+instructor : giảng viên
+instrument : dụng cụ
+insurance : bảo hiểm
+intact : nguyên vẹn
+integrate : tích hợp
+integrated : tích hợp
+integration : hội nhập
+integrity : chính trực
+intellectual : trí tuệ
+intelligence : sự thông minh
+intelligent : thông minh
+intend : dự định
+intense : cường độ cao
+intensity : cường độ
+intent : ý định
+intention : ý định
+interact : tương tác
+interaction : sự tương tác
+interest : quan tâm
+interested : quan tâm
+interesting : hấp dẫn
+interfere : gây trở ngại
+interior : nội địa
+internal : bên trong
+international : quốc tế
+internet : internet
+interpret : thông dịch
+interpretation : diễn dịch
+interrupt : làm gián đoạn
+interval : khoảng thời gian
+intervention : can thiệp
+interview : phỏng vấn
+intimate : thân mật
+into : vào
+introduce : giới thiệu
+introduction : giới thiệu
+invade : xâm chiếm
+invasion : cuộc xâm lăng
+invent : phát minh
+invention : sự phát minh
+inventory : hàng tồn kho
+invest : đầu tư
+investigate : điều tra
+investigation : cuộc điều tra
+investigator : điều tra viên
+investment : đầu tư
+investor : nhà đầu tư
+invisible : vô hình
+invitation : lời mời
+invite : mời gọi
+involve : liên quan
+involved : có tính liên quan
+involvement : sự tham gia
+ingredient : thành phần
+inherent : vốn có
+inherit : thừa kế
+iraqi : iraqi
+irish : người ailen
+iron : bàn là
+ironically : trớ trêu thay
+irony : mỉa mai
+is : là
+islam : đạo hồi
+islamic : hồi giáo
+island : đảo
+isolate : cô lập
+isolated : bị cô lập
+isolation : cô lập
+israeli : israeli
+issue : vấn đề
+it : nó
+italian : người ý
+item : mục
+its : của nó
+itself : chinh no
+jacket : áo khoác
+jail : nhà giam
+japanese : tiếng nhật
+jar : lọ
+jaw : hàm
+jazz : jazz
+jeans : quần jean
+jet : máy bay phản lực
+jew : người do thái
+jewelry : đồ trang sức
+jewish : người do thái
+job : việc làm
+join : tham gia
+joint : chung
+joke : đùa
+journal : tạp chí
+journalism : báo chí
+journalist : nhà báo
+journey : hành trình
+joy : vui sướng
+judge : thẩm phán
+judgment : phán đoán
+judicial : tư pháp
+juice : nước ép
+jump : nhảy
+junior : em
+jungle : rừng nhiệt đới
+jurisdiction : quyền hạn
+juror : bồi thẩm đoàn
+jury : ban bồi thẩm
+just : chỉ
+justice : sự công bằng
+justify : biện hộ
+keep : giữ
+kept : giữ
+key : chìa khóa
+kick : đá
+kid : đứa trẻ
+kill : giết chết
+killer : sát thủ
+killing : giết chết
+kind : loại
+king : nhà vua
+kingdom : vương quốc
+kiss : hôn
+kit : bộ dụng cụ
+kitchen : phòng bếp
+knee : đầu gối
+kneel : quỳ xuống
+knew : biết
+knife : dao
+knock : đánh
+know : biết
+knowledge : hiểu biết
+known : nổi tiếng
+korean : hàn quốc
+lab : phòng thí nghiệm
+label : nhãn
+labor : lao động
+laboratory : phòng thí nghiệm
+lack : thiếu sót
+ladder : thang
+lady : quý bà
+lake : hồ
+lamp : đèn
+land : đất đai
+landing : đổ bộ
+landmark : mốc
+landscape : phong cảnh
+lane : lane
+language : ngôn ngữ
+lap : vòng
+large : lớn
+largely : phần lớn
+laser : laser
+last : cuối cùng
+late : muộn
+lately : gần đây
+later : một lát sau
+latin : latin
+latter : sau này
+laugh : cười
+laughter : tiếng cười
+launch : phóng
+laundry : giặt ủi
+law : pháp luật
+lawmaker : nhà lập pháp
+lawn : bãi cỏ
+lawsuit : kiện tụng
+lawyer : luật sư
+lay : đặt nằm
+layer : lớp
+lead : chì
+leader : lãnh đạo
+leadership : khả năng lãnh đạo
+leading : dẫn đầu
+leaf : lá
+league : liên đoàn
+lean : nạc
+leap : nhảy vọt
+learn : học hỏi
+learning : học tập
+least : ít nhất
+leather : da
+leave : rời khỏi
+lecture : bài học
+led : dẫn
+left : trái
+leg : chân
+legacy : di sản
+legal : hợp pháp
+legally : hợp pháp
+legend : huyền thoại
+legislation : pháp luật
+legislative : lập pháp
+legislator : nhà lập pháp
+legislature : cơ quan lập pháp
+legitimate : hợp pháp
+lemon : chanh
+lend : cho vay
+lens : ống kính
+length : chiều dài
+less : ít hơn
+lesson : bài học
+let : để cho
+letter : lá thư
+level : cấp độ
+liability : trách nhiệm pháp lý
+liberal : tự do
+liberty : tự do
+library : thư viện
+license : giấy phép
+lid : nắp
+lie : nói dối
+life : đời sống
+lifestyle : lối sống
+lifetime : cả đời
+lift : thang máy
+light : ánh sáng
+lighting : thắp sáng
+lightly : nhẹ nhàng
+lightning : sét đánh
+like : như
+likelihood : khả năng
+likely : có khả năng
+likewise : tương tự
+limb : chân tay
+limit : giới hạn
+limitation : giới hạn
+limited : giới hạn
+line : hàng
+link : liên kết
+lion : sư tử
+lip : môi
+liquid : chất lỏng
+list : danh sách
+listen : nghe
+listener : người nghe
+literally : nghĩa đen
+literary : văn chương
+literature : văn chương
+little : ít
+live : trực tiếp
+liver : gan
+living : sống
+load : tải trọng
+loan : tiền vay
+lobby : sảnh đợi
+local : địa phương
+locate : định vị
+location : vị trí
+lock : khóa
+log : đăng nhập
+logic : logic
+logical : hợp lý
+lone : đơn độc
+lonely : cô đơn
+long : dài
+longterm : dài hạn
+longtime : thời gian dài
+look : nhìn
+loop : vòng lặp
+loose : lỏng lẻo
+lose : thua
+loss : mất mát
+lost : mất đi
+lot : nhiều
+lots : rất nhiều
+loud : to tiếng
+love : yêu
+lovely : đáng yêu
+lover : người yêu
+low : thấp
+lower : thấp hơn
+loyal : trung thành
+loyalty : lòng trung thành
+luck : may mắn
+lucky : may mắn
+lunch : bữa trưa
+lung : phổi
+machine : máy móc
+mad : điên
+made : thực hiện
+magazine : tạp chí
+magnet : nam châm
+magnetic : từ tính
+magnitude : độ lớn
+magic : ma thuật
+mail : thư
+main : chủ yếu
+mainly : chủ yếu
+mainstream : dòng chính
+maintain : duy trì
+maintenance : bảo trì
+major : chính
+majority : đa số
+make : chế tạo
+maker : nhà sản xuất
+makeup : trang điểm
+male : nam giới
+mall : trung tâm mua sắm
+man : đàn ông
+manage : quản lý
+management : sự quản lý
+manager : giám đốc
+managing : quản lý
+mandate : ủy nhiệm
+manipulate : vận dụng
+manner : cách thức
+mansion : biệt thự
+manual : sổ tay
+manufacturer : nhà chế tạo
+manufacturing : chế tạo
+many : nhiều
+map : bản đồ
+marble : đá hoa
+march : tháng ba
+margin : lề
+marine : biển
+mark : dấu
+marker : đánh dấu
+market : thị trường
+marketing : tiếp thị
+marketplace : thương trường
+marriage : kết hôn
+married : cưới nhau
+marry : kết hôn
+mask : mặt nạ
+mass : khối lượng
+massive : to lớn
+master : bậc thầy
+match : trận đấu
+mate : người bạn đời
+material : vật chất
+matter : vấn đề
+math : môn toán
+mathematics : toán học
+maximum : tối đa
+may : tháng năm
+maybe : có lẽ
+mayor : thị trưởng
+me : tôi
+meal : bữa ăn
+mean : nghĩa là
+meaning : ý nghĩa
+meaningful : có ý nghĩa
+means (pl) : nghĩa là (pl)
+meant : แทน เลือก ปัก
+meantime : thời gian chờ đợi
+meanwhile : trong khi đó
+measure : đo
+measurement : phép đo
+meat : thịt
+mechanic : thợ cơ khí
+mechanical : cơ khí
+mechanism : cơ chế
+medal : huy chương
+media : phương tiện truyền thông
+medical : y khoa
+medication : thuốc men
+medicine : dược phẩm
+medium : trung bình
+meet : gặp
+meeting : gặp gỡ
+melody : giai điệu êm ái
+melt : tan chảy
+member : hội viên
+membership : thành viên
+memory : ký ức
+men : đàn ông
+mental : tâm thần
+mentally : tinh thần
+mention : đề cập đến
+mentor : người cố vấn
+menu : thực đơn
+merchant : thương gia
+mere : chỉ là
+merely : đơn thuần
+mess : lộn xộn
+message : thông điệp
+metal : kim loại
+metaphor : phép ẩn dụ
+meter : mét
+method : phương pháp
+metropolitan : đô thị
+mexican : mexico
+middle : ở giữa
+middleclass : tầng lớp trung lưu
+midnight : nữa đêm
+midst : giữa
+might : có thể
+migration : di cư
+mild : nhẹ nhàng
+mile : dặm
+military : quân đội
+milk : sữa
+mill : cối xay
+million : triệu
+mind : lí trí
+mine : tôi
+mineral : khoáng sản
+minimal : tối thiểu
+minimize : giảm thiểu
+minimum : tối thiểu
+minister : bộ trưởng, mục sư
+ministry : bộ
+minor : diễn viên phụ
+minority : thiểu số
+minute : phút
+miracle : phép màu
+mirror : gương
+miss : bỏ lỡ
+missile : tên lửa
+missing : mất tích
+mission : sứ mệnh
+missionary : nhà truyền giáo
+mistake : sai lầm
+mix : pha trộn
+mixed : pha trộn
+mixture : hỗn hợp
+mmhmm : mm-hmm
+mobile : di động
+mode : chế độ
+model : mô hình
+moderate : vừa phải
+modern : hiện đại
+modest : khiêm tốn
+modify : sửa đổi
+molecule : phân tử
+mom : mẹ
+moment : chốc lát
+momentum : đà
+money : tiền bạc
+monitor : giám sát
+monkey : con khỉ
+monster : quái vật
+month : tháng
+monthly : hàng tháng
+monument : tượng đài
+mood : khí sắc
+moon : mặt trăng
+moral : đạo đức
+more : hơn
+moreover : hơn thế nữa
+morning : buổi sáng
+mortality : tử vong
+mortgage : thế chấp
+most : phần lớn
+mostly : chủ yếu
+motion : chuyển động
+motivate : động viên
+motivation : động lực
+motive : động cơ
+motor : động cơ
+mother : mẹ
+mount : gắn kết
+mountain : núi
+mouse : chuột
+mouth : miệng
+move : di chuyển
+movement : phong trào
+movie : bộ phim
+mr : ông
+mrs : bà
+ms : cô
+much : nhiều
+mud : bùn
+multiple : nhiều
+multiply : nhân
+municipal : thành phố
+murder : giết người
+muscle : cơ bắp
+museum : viện bảo tàng
+mushroom : nấm
+music : âm nhạc
+musical : âm nhạc
+musician : nhạc sĩ
+muslim : hồi giáo
+must : phải
+mutter : lẩm bẩm
+mutual : lẫn nhau
+my : tôi
+myself : riêng tôi
+mysterious : huyền bí
+mystery : huyền bí
+myth : huyền thoại
+nail : móng tay
+naked : trần truồng
+name : tên
+narrative : tường thuật
+narrow : hẹp
+nasty : bẩn thỉu
+nation : quốc gia
+national : quốc gia
+nationwide : toàn quốc
+native : tự nhiên
+natural : tự nhiên
+naturally : một cách tự nhiên
+nature : thiên nhiên
+naval : hải quân
+near : ở gần
+nearby : gần đó
+nearly : gần
+neat : khéo léo
+necessarily : nhất thiết
+necessary : cần thiết
+necessity : sự cần thiết
+neck : cái cổ
+need : nhu cầu
+needle : cây kim
+negative : tiêu cực
+negotiate : đàm phán
+negotiation : đàm phán
+neighbor : hàng xóm
+neighborhood : khu vực lân cận
+neighboring : lân cận
+neither : cũng không
+nerve : dây thần kinh
+nervous : lo lắng
+nest : tổ
+net : mạng lưới
+network : mạng
+neutral : trung tính
+never : không bao giờ
+nevertheless : tuy nhiên
+new : mới
+newly : mới
+news : tin tức
+newspaper : báo chí
+next : kế tiếp
+nice : tốt đẹp
+night : đêm
+nightmare : ác mộng
+nine : chín
+no : không
+nobody : không ai
+nod : gật đầu
+noise : tiếng ồn
+nomination : đề cử
+nominee : ứng cử viên
+none : không ai
+nonetheless : dù sao
+nonprofit : phi lợi nhuận
+noon : trưa
+nor : cũng không
+norm : định mức
+normal : bình thường
+normally : bình thường
+north : bắc
+northeast : đông bắc
+northern : phương bắc
+northwest : tây bắc
+nose : mũi
+not : không phải
+note : chú thích
+notebook : sổ tay
+notice : để ý
+notion : khái niệm
+nothing : không có gì
+noun : danh từ
+novel : cuốn tiểu thuyết
+now : hiện nay
+nowhere : hư không
+n't : không
+nuclear : nguyên tử
+number : con số
+numeral : số
+numerous : nhiều
+nurse : y tá
+nut : hạt
+nutrient : chất dinh dưỡng
+oak : cây sồi
+object : vật
+objection : sự phản đối
+objective : mục tiêu
+obligation : nghĩa vụ
+observation : quan sát
+observe : quan sát
+observer : người quan sát
+obstacle : trở ngại
+obtain : đạt được
+obvious : hiển nhiên
+obviously : chắc chắn
+occasion : dịp
+occasional : thỉnh thoảng
+occasionally : thỉnh thoảng
+occupation : nghề nghiệp
+occupy : chiếm
+occur : xảy ra
+ocean : đại dương
+o'clock : giờ
+odd : lẻ
+odds : tỷ lệ
+of : của
+off : tắt
+offender : tội phạm
+offense : xúc phạm
+offensive : phản cảm
+offer : phục vụ
+offering : chào bán
+office : văn phòng
+officer : nhân viên văn phòng
+official : chính thức
+officially : chính thức
+often : thường xuyên
+oh : oh
+oil : dầu
+ok : được
+okay : đuợc
+old : cũ
+oldfashioned : cổ hủ
+olympic : olympic
+olympics : thế vận hội
+on : trên
+once : một lần
+one : một
+onethird : một phần ba
+onion : củ hành
+online : trực tuyến
+only : chỉ có
+onto : trên
+ongoing : đang diễn ra
+open : mở
+opening : khai mạc
+openly : cởi mở
+opera : opera
+operate : vận hành
+operating : điều hành
+operation : hoạt động
+operator : nhà điều hành
+opinion : quan điểm
+opponent : phản đối
+opportunity : cơ hội
+oppose : phản đối
+opposed : phản đối
+opposite : đối diện
+opposition : sự đối lập
+opt : opt
+optimistic : lạc quan
+option : tùy chọn
+or : hoặc là
+oral : miệng
+orange : trái cam
+orbit : quỹ đạo
+order : gọi món
+ordinary : bình thường
+organ : đàn organ
+organic : hữu cơ
+organism : cơ thể
+organization : cơ quan
+organizational : tổ chức
+organize : tổ chức
+organized : tổ chức
+orientation : sự định hướng
+origin : gốc
+original : nguyên
+originally : ban đầu
+other : khác
+others : khác
+otherwise : nếu không thì
+ought : nên
+our : của chúng ta
+ours : của chúng tôi
+ourselves : chúng ta
+out : ngoài
+outcome : kết quả
+outdoor : ngoài trời
+outer : bên ngoài
+outfit : trang phục
+outlet : đầu ra
+outline : đề cương
+output : đầu ra
+outside : ở ngoài
+outsider : người ngoài
+outstanding : nổi bật
+oven : lò nướng
+over : kết thúc
+overall : tổng thể
+overcome : vượt qua
+overlook : bỏ qua
+overnight : qua đêm
+oversee : giám sát
+overwhelm : quá tải
+overwhelming : áp đảo
+owe : nợ
+own : sở hữu
+owner : chủ nhân
+ownership : sở hữu
+oxygen : ôxy
+pace : tốc độ
+pack : đóng gói
+package : gói
+pad : tập giấy
+page : trang
+pain : đau đớn
+painful : đau đớn
+paint : sơn
+painter : họa sĩ
+painting : bức vẽ
+pair : đôi
+palace : cung điện
+pale : nhợt nhạt
+palestinian : palestine
+palm : lòng bàn tay
+pan : chảo
+panel : bảng điều khiển
+panic : hoảng loạn
+pants (pl) : quần (pl)
+paper : giấy
+parade : diễu hành
+paragraph : đoạn văn
+parent : cha mẹ
+parental : cha mẹ
+parish : giáo xứ
+park : công viên
+parking : bãi đỗ xe
+part : phần
+partial : một phần
+partially : một phần
+participant : người tham gia
+participate : tham dự
+participation : sự tham gia
+particle : hạt
+particular : cụ thể
+particularly : đặc biệt
+partly : từng phần
+partner : cộng sự
+partnership : hợp tác
+party : buổi tiệc
+pass : vượt qua
+passage : đoạn văn
+passenger : hành khách
+passing : đi qua
+passion : niềm đam mê
+past : quá khứ
+pasta : mỳ ống
+pastor : mục sư
+pat : vỗ vỗ
+patch : vá
+patent : bằng sáng chế
+patience : kiên nhẫn
+patient : bệnh nhân
+pattern : mẫu
+path : con đường
+patrol : tuần tra
+patron : người bảo trợ
+pause : tạm ngừng
+pay : trả
+payment : thanh toán
+pc : pc
+peace : hòa bình
+peaceful : bình yên
+peak : cao điểm
+peanut : đậu phụng
+peasant : nông dân
+peel : lột vỏ
+peer : ngang nhau
+pen : cây bút
+penalty : hình phạt
+pencil : bút chì
+pension : lương hưu
+people : những người
+pepper : tiêu
+per : mỗi
+perceive : nhận thức
+perceived : lĩnh hội
+percentage : phần trăm
+perception : nhận thức
+perfect : hoàn hảo
+perfectly : hoàn hảo
+perform : biểu diễn
+performance : hiệu suất
+performer : người biểu diễn
+perhaps : có lẽ
+period : giai đoạn
+permanent : dài hạn
+permission : sự cho phép
+permit : cho phép
+persian : người ba tư
+persist : tồn tại
+person : người
+personal : cá nhân
+personality : nhân cách
+personally : cá nhân
+personnel : nhân viên
+perspective : quan điểm
+persuade : truy vấn
+pet : vật nuôi
+piano : đàn piano
+pick : chọn
+pickup : nhặt lên
+picture : hình ảnh
+pie : chiếc bánh
+piece : cái
+pig : con lợn
+pile : đóng cọc
+pill : viên thuốc
+pillow : cái gối
+pilot : phi công
+pin : ghim
+pine : cây thông
+pink : hồng
+pioneer : người tiên phong
+pipe : ống
+pistol : súng lục
+pit : hố
+pitch : sân cỏ
+pitcher : người bình
+pizza : pizza
+place : địa điểm
+placement : vị trí
+plain : trơn
+plaintiff : nguyên đơn
+plan : kế hoạch
+plane : máy bay
+planet : hành tinh
+planner : lập kế hoạch
+planning : lập kế hoạch
+plant : thực vật
+plastic : nhựa
+plate : đĩa
+platform : nền tảng
+play : chơi
+player : người chơi
+playoff : playoff
+plea : lời bào chữa
+plead : biện hộ
+pleasant : dễ chịu
+please : xin vui lòng
+pleased : vừa lòng
+pleasure : vui lòng
+plenty : nhiều
+plot : âm mưu
+plunge : lao xuống
+plural : số nhiều
+plus : thêm
+pm : pm
+pocket : bỏ túi
+poem : bài thơ
+poet : bài thơ
+poetry : thơ phú
+point : điểm
+poke : xô
+pole : cây sào
+police : cảnh sát
+policeman : cảnh sát
+policy : chính sách
+political : chính trị
+politically : chính trị
+politician : chính trị gia
+politics : chính trị
+poll : thăm dò ý kiến
+pollution : sự ô nhiễm
+pond : ao
+pool : bơi
+poor : nghèo nàn
+pop : nhạc pop
+popular : phổ biến
+popularity : phổ biến
+populate : cư trú
+population : dân số
+porch : hiên nhà
+pork : thịt heo
+port : hải cảng
+portfolio : danh mục đầu tư
+portion : phần
+portrait : chân dung
+portray : miêu tả
+pose : đặt ra
+position : chức vụ
+positive : tích cực
+possess : sở hữu
+possession : chiếm hữu
+possibility : khả năng
+possible : khả thi
+possibly : có thể
+post : bài đăng
+poster : áp phích
+pot : nồi
+potato : khoai tây
+potential : tiềm năng
+potentially : có khả năng
+pound : pao
+pour : đổ
+poverty : nghèo nàn
+powder : bột
+power : quyền lực
+powerful : quyền lực
+practical : thiết thực
+practically : thực tế
+practice : thực hành
+practitioner : học viên
+praise : ca ngợi
+pray : cầu nguyện
+prayer : cầu nguyện
+preach : rao giảng
+precious : quí
+precise : tóm lược
+precisely : đúng
+predator : người ăn thịt
+predict : tiên đoán
+prediction : dự đoán
+prefer : thích hơn
+preference : sở thích
+pregnancy : mang thai
+pregnant : có thai
+preliminary : sơ bộ
+premise : tiền đề
+premium : phí bảo hiểm
+preparation : chuẩn bị
+prepare : chuẩn bị
+prescription : đơn thuốc
+presence : sự hiện diện
+present : hiện tại
+presentation : trình bày
+preserve : giữ gìn
+presidency : chức tổng thống
+president : chủ tịch
+presidential : tổng thống
+press : nhấn
+pressure : sức ép
+presumably : có lẽ
+pretend : giả vờ
+pretty : đẹp
+prevail : chiếm ưu thế
+prevent : ngăn chặn
+prevention : phòng ngừa
+previous : trước
+previously : trước đây
+price : giá bán
+pride : tự hào
+priest : thầy tu
+primarily : chủ yếu
+primary : sơ cấp
+prime : nguyên tố
+principal : hiệu trưởng
+principle : nguyên tắc
+print : in
+prior : trước
+priority : sự ưu tiên
+prison : nhà tù
+prisoner : tù nhân
+privacy : riêng tư
+private : riêng tư
+privately : tư nhân
+privilege : đặc quyền
+prize : giải thưởng
+pro : pro
+probable : có khả năng
+probably : có lẽ
+problem : vấn đề
+procedure : thủ tục
+proceed : tiếp tục
+process : quá trình
+processing : chế biến
+processor : bộ vi xử lý
+proclaim : tuyên bố
+produce : sản xuất
+producer : nhà sản xuất
+product : sản phẩm
+production : sản xuất
+productive : có năng suất
+productivity : năng suất
+profession : chuyên nghiệp
+professional : chuyên nghiệp
+professor : giáo sư
+profile : hồ sơ
+profit : lợi nhuận
+profound : thâm thúy
+program : chương trình
+programming : lập trình
+progress : tiến độ
+progressive : cấp tiến
+prohibit : cấm
+project : dự án
+projection : chiếu
+prominent : nổi bật
+promise : lời hứa
+promising : hứa hẹn
+promote : quảng bá
+promotion : quảng cáo
+prompt : nhắc nhở
+proof : bằng chứng
+proper : phù hợp
+properly : đúng
+property : bất động sản
+proportion : tỉ lệ
+proposal : đề nghị
+propose : cầu hôn
+proposed : đề xuất
+prosecution : truy tố
+prosecutor : công tố viên
+prospect : khách hàng tiềm năng
+protect : bảo vệ
+protection : sự bảo vệ
+protective : bảo vệ
+protein : chất đạm
+protest : phản đối
+protocol : giao thức
+proud : tự hào
+prove : chứng minh
+provide : cung cấp
+provided : cung cấp
+provider : các nhà cung cấp
+province : tỉnh
+provision : điều khoản
+provoke : kích động
+psychology : tâm lý học
+psychological : tâm lý
+psychologist : nhà tâm lý học
+public : công cộng
+publication : xuất bản
+publicity : công khai
+publicly : công khai
+publish : công bố
+publisher : nhà xuất bản
+pull : kéo
+pulse : xung
+pump : máy bơm
+punch : đấm
+punish : trừng phạt
+punishment : hình phạt
+purchase : mua, tựa vào, bám vào
+pure : nguyên chất
+purple : màu tím
+purpose : mục đích
+purse : cái ví
+pursue : theo đuổi
+pursuit : theo đuổi
+push : đẩy
+put : đặt
+puzzle : câu đố
+phase : giai đoạn
+phenomenon : hiện tượng
+philosophical : triết học
+philosophy : triết học
+phone : điện thoại
+photo : hình chụp
+photograph : ảnh chụp
+photographer : nhiếp ảnh gia
+photography : nhiếp ảnh
+phrase : cụm từ
+physical : vật lý
+physically : thể chất
+physician : bác sĩ
+physics : vật lý
+qualify : đủ tiêu chuẩn
+quality : phẩm chất
+quantity : số lượng
+quart : quart
+quarter : phần tư
+quarterback : tiền vệ
+queen : nữ hoàng
+quest : nhiệm vụ
+question : câu hỏi
+questionnaire : bảng câu hỏi
+quick : nhanh chóng
+quickly : mau
+quiet : yên tĩnh
+quietly : lặng lẽ
+quit : thoái lui
+quite : khá
+quote : trích dẫn
+quotient : phép chia
+rabbit : con thỏ
+race : cuộc đua
+racial : chủng tộc
+racism : chủ nghĩa phân biệt chủng tộc
+rack : giá đỡ
+radar : radar
+radiation : sự bức xạ
+radical : cấp tiến, căn nguyên
+radio : radio
+rage : giận dữ
+rail : đường sắt
+railroad : đường sắt
+rain : mưa
+raise : nâng cao
+rally : biểu tình
+ran : chạy
+ranch : trang trại
+random : ngẫu nhiên
+rank : cấp
+range : phạm vi
+rape : hãm hiếp
+rapid : nhanh
+rapidly : nhanh chóng
+rare : hiếm
+rarely : ít khi
+rat : con chuột
+rate : tỷ lệ
+rating : xêp hạng
+ratio : tỉ lệ
+rational : hợp lý
+rather : hơn
+raw : thô
+re : lại
+react : phản ứng
+reaction : phản ứng
+reach : chạm tới
+read : đọc
+reader : người đọc
+readily : dễ dàng
+reading : đọc hiểu
+ready : sẳn sàng
+real : thực
+realistic : thực tế
+reality : thực tế
+realize : nhận ra
+really : có thật không
+realm : cảnh giới
+rear : phía sau
+reason : lý do
+reasonable : hợp lý
+rebel : nổi loạn
+rebuild : xây dựng lại
+recall : hồi tưởng
+receive : nhận được
+receiver : người nhận
+recent : gần đây
+recently : gần đây
+reception : tiếp nhận
+recession : suy thoái kinh tế
+recipe : công thức
+recipient : người nhận
+recognition : sự công nhận
+recognize : nhìn nhận
+recommend : giới thiệu
+recommendation : sự giới thiệu
+record : ghi lại
+recording : ghi âm
+recover : bình phục
+recovery : phục hồi
+recruit : tuyển dụng
+red : đỏ
+reduce : giảm
+reduction : giảm
+refer : tham khảo
+reference : tài liệu tham khảo
+reflect : phản chiếu
+reflection : sự phản chiếu
+reform : cải cách
+refrigerator : tủ lạnh
+refuge : nơi ẩn náu
+refugee : người tị nạn
+refuse : từ chối
+regain : giành lại
+regard : quan tâm
+regarding : về
+regardless : bất kể
+regret : hối tiếc
+regular : đều đặn
+regularly : thường xuyên
+regulate : quy định
+regulation : quy định
+regulator : người điều tiết
+regulatory : quy định
+regime : chế độ
+region : khu vực
+regional : khu vực
+register : ghi danh
+rehabilitation : phục hồi chức năng
+reinforce : củng cố
+reject : từ chối
+relate : liên hệ
+related : liên quan
+relation : quan hệ
+relationship : mối quan hệ
+relative : quan hệ
+relatively : tương đối
+relax : thư giãn
+release : giải phóng
+relevant : liên quan, thích hợp
+reliability : độ tin cậy
+reliable : đáng tin cậy
+relief : cứu trợ
+relieve : giải tỏa
+religion : tôn giáo
+religious : tôn giáo
+reluctant : lưỡng lự
+rely : dựa
+remain : vẫn còn
+remaining : còn lại
+remark : nhận xét
+remarkable : đáng chú ý
+remember : nhớ lại
+remind : nhắc lại
+reminder : nhắc nhở
+remote : xa
+removal : gỡ bỏ
+remove : tẩy
+render : render
+rent : thuê
+rental : thuê
+repair : sửa
+repeat : nói lại
+repeatedly : nhiều lần
+replace : thay thế
+replacement : thay thế
+reply : đáp lại
+report : bài báo cáo
+reportedly : báo cáo
+reporter : phóng viên
+reporting : báo cáo
+represent : đại diện
+representation : đại diện
+representative : tiêu biểu
+republic : nước cộng hòa
+republican : đảng cộng hòa
+republican : nhà nước cộng hòa
+reputation : uy tín
+request : yêu cầu
+require : yêu cầu
+required : cần thiết
+requirement : yêu cầu
+rescue : cứu hộ
+research : nghiên cứu
+researcher : nghiên cứu viên
+resemble : giống
+reservation : đặt phòng
+reserve : dự trữ
+residence : nơi cư trú
+resident : cư dân
+residential : nhà ở
+resign : từ chức
+resist : kháng cự
+resistance : sức đề kháng
+resolution : độ phân giải
+resolve : giải quyết
+resort : phương sách
+resource : tài nguyên
+respect : sự tôn trọng
+respectively : tương ứng
+respond : trả lời
+respondent : người trả lời
+response : phản ứng
+responsibility : trách nhiệm
+responsible : chịu trách nhiệm
+rest : nghỉ ngơi
+restaurant : nhà hàng
+restore : phục hồi
+restrict : giới hạn
+restriction : sự hạn chế
+result : kết quả
+resume : tiếp tục
+retail : bán lẻ
+retailer : nhà bán lẻ
+retain : giữ lại
+retire : về hưu
+retired : nghỉ hưu
+retirement : nghỉ hưu
+return : trở về
+retreat : rút lui
+reveal : tiết lộ
+revelation : sự mặc khải
+revenue : thu nhập
+reverse : đảo ngược
+review : ôn tập
+revolution : cuộc cách mạng
+revolutionary : cách mạng
+reward : phần thưởng
+rhetoric : hùng biện
+rhythm : nhịp
+rib : xương sườn
+ribbon : ribbon
+rice : cơm
+rich : giàu có
+rid : thoát khỏi
+ride : dap xe
+rider : người lái
+ridge : cây rơm
+ridiculous : nực cười
+rifle : súng trường
+right : đúng
+rim : rim
+ring : nhẫn
+riot : bạo loạn
+rip : yên nghỉ
+rise : tăng lên
+risk : rủi ro
+risky : rủi ro
+ritual : lễ nghi
+rival : đối thủ
+river : con sông
+road : đường
+robot : robot
+rock : đá
+rocket : tên lửa
+rod : gậy
+role : vai trò
+roll : cuộn
+rolling : lăn
+roman : roman
+romance : lãng mạn
+romantic : lãng mạn
+roof : mái nhà
+room : phòng
+root : nguồn gốc
+rope : dây thừng
+rose : bông hồng
+rough : thô
+roughly : gần
+round : tròn
+route : lộ trình
+routine : công việt hằng ngày
+routinely : thường
+row : hàng
+royal : hoàng tộc
+rub : chà xát
+rubber : cao su
+ruin : phá hoại
+rule : qui định
+ruling : phán quyết
+rumor : tin đồn
+run : chạy
+runner : người chạy
+running : đang chạy
+rural : nông thôn
+rush : vội vã
+russian : người nga
+sack : bao
+sacred : linh thiêng
+sacrifice : sự hy sinh
+sad : buồn
+safe : an toàn
+safely : an toàn
+safety : an toàn
+said : nói
+sail : cánh buồm
+sake : lợi ích
+salad : rau xà lách
+salary : lương
+sale : buôn bán
+sales : bán hàng
+salmon : cá hồi
+salt : muối
+same : tương tự
+App : mẫu vật
+sanction (pl) : sự trừng phạt (pl)
+sand : cát
+sandwich : sandwich
+sat : ngồi
+satellite : vệ tinh
+satisfaction : sự thỏa mãn
+satisfy : làm vui lòng
+sauce : nước xốt
+save : tiết kiệm
+saving (pl) : tiết kiệm (pl)
+saw : cái cưa
+say : nói
+scale : tỉ lệ
+scan : quét
+scandal : vụ bê bối
+scare : sợ hãi
+scared : sợ hãi
+scary : đáng sợ
+scatter : tiêu tan
+scenario : kịch bản
+scene : bối cảnh
+scent : hương thơm
+science : khoa học
+scientific : thuộc về khoa học
+scientist : nhà khoa học
+scope : phạm vi
+score : ghi bàn
+scramble : tranh giành
+scratch : vết trầy
+scream : hét lên
+screen : màn
+screening : kiểm tra
+screw : đinh ốc
+script : kịch bản
+sculpture : điêu khắc
+schedule : kế hoạch
+scheme : kế hoạch
+scholar : học giả
+scholarship : học bổng
+school : trường học
+sea : biển
+seal : niêm phong
+search : tìm kiếm
+season : mùa
+seat : ghế
+second : thứ hai
+secondary : thứ hai
+secret : bí mật
+secretary : thư ký
+section : phần
+sector : ngành
+secular : thế tục
+secure : đảm bảo
+security : bảo vệ
+see : xem
+seed : giống
+seek : tìm kiếm
+seem : hình như
+seemingly : có vẻ
+segment : phần
+seize : tịch thu
+seldom : ít khi
+select : lựa chọn
+selected : đã chọn
+selection : lựa chọn
+self : tự
+selfesteem : lòng tự trọng
+sell : bán
+seller : người bán
+seminar : hội thảo
+senate : thượng nghị viện
+senator : thượng nghị sĩ
+send : gửi
+senior : cao cấp
+sensation : cảm giác
+sense : giác quan
+sensitive : nhạy cảm
+sensitivity : nhạy cảm
+sensor : cảm biến
+sent : gởi
+sentence : kết án
+sentiment : tình cảm
+separate : tách rời
+separation : tách biệt
+sequence : trình tự
+series : loạt
+serious : nghiêm trọng
+seriously : nghiêm túc
+servant : người hầu
+serve : phục vụ
+service : dịch vụ
+serving : phục vụ
+session : phiên họp
+set : bộ
+setting : cài đặt
+settle : ổn định
+settlement : giải quyết
+seven : bảy
+seventh : thứ bảy
+several : một số
+severe : nghiêm trọng
+severely : nghiêm trọng
+sex : tình dục
+sexual : tình dục
+sexuality : tình dục
+sexually : tình dục
+sexy : sexy
+shade : bóng râm
+shadow : bóng
+shake : lắc
+shall : sẽ
+shallow : nông
+shame : xấu hổ
+shape : hình dạng
+share : chia sẻ
+shared : chia sẻ
+shareholder : cổ đông
+shark : cá mập
+sharp : nhọn
+sharply : mạnh
+she : chị ấy
+shed : đổ ra
+sheep : cừu
+sheer : tuyệt
+sheet : tấm
+shelf : kệ
+shell : vỏ
+shelter : nơi trú ẩn
+shift : sự thay đổi
+shine : tỏa sáng
+ship : tàu
+shirt : áo sơ mi
+shit : dơ bẩn
+shock : sốc
+shoe : giày
+shoot : bắn
+shooting : chụp
+shop : cửa tiệm
+shopping : mua sắm
+shore : bờ biển
+short : ngắn
+shortage : sự thiếu
+shortly : ngay
+shorts : quần short
+shortterm : thời gian ngắn
+shot : bắn
+should : nên
+shoulder : vai
+shout : kêu la
+shove : xô
+show : chỉ
+shower : vòi hoa sen
+shrimp : con tôm
+shrink : co lại
+shrug : nhún vai
+shut : đóng lại
+shuttle : đưa đón
+shy : nhát
+sibling : anh chị em ruột
+sick : đau ốm
+side : bên
+sidewalk : đường đi bộ
+sigh : thở dài
+sight : thị giác
+sign : ký tên
+signal : tín hiệu
+signature : chữ ký
+significance : tầm quan trọng
+significant : có ý nghĩa
+significantly : đáng kể
+silence : khoảng lặng
+silent : im lặng
+silk : lụa
+silly : ngớ ngẩn
+silver : bạc
+similar : giống
+similarity : sự giống nhau
+similarly : tương tự
+simple : đơn giản
+simply : đơn giản
+simultaneously : đồng thời
+sin : tội
+since : kể từ
+sink : bồn rửa
+sing : hát
+singer : ca sĩ
+single : độc thân
+sir : ngài
+sister : em gái
+sit : ngồi
+site : địa điểm
+situation : tình hình
+six : sáu
+sixth : thứ sáu
+size : kích thước
+ski : trượt tuyết
+skill : kỹ năng
+skilled : có kỹ năng
+skin : da
+skip : bỏ qua
+skirt : váy
+skull : sọ
+sky : bầu trời
+slam : sập
+slap : tát
+slave : nô lệ
+slavery : chế độ nô lệ
+sleep : ngủ
+sleeve : tay áo
+slice : lát
+slide : trượt
+slight : nhẹ
+slightly : khinh bỉ
+slip : trượt
+slope : dốc
+slot : khe
+slow : chậm
+slowly : chậm rãi
+small : nhỏ bé
+smart : thông minh
+smell : mùi
+smile : nụ cười
+smoke : hút thuốc lá
+smooth : trơn tru
+snake : con rắn
+snap : chụp nhanh
+sneak : sneak
+snow : tuyết
+so : vì thế
+soak : ngâm
+soap : xà bông
+soar : bay lên
+socalled : cái gọi là
+soccer : bóng đá
+social : xã hội
+socially : xã hội
+society : xã hội
+sock : bít tất
+sodium : natri
+sofa : ghế sô pha
+soft : mềm mại
+soften : làm mềm
+softly : nhẹ nhàng
+software : phần mềm
+soil : đất
+solar : hệ mặt trời
+soldier : lính
+sole : duy nhất
+solely : chỉ
+solid : chất rắn
+solution : dung dịch
+solve : giải quyết
+some : một số
+somebody : có ai
+someday : một ngày nào đó
+somehow : bằng cách nào đó
+someone : người nào
+sometime : thỉnh thoảng
+sometimes : đôi khi
+something : cái gì đó
+somewhat : phần nào
+somewhere : một vài nơi
+son : con trai
+song : bài hát
+soon : sớm
+sophisticated : tinh vi
+sorry : lấy làm tiếc
+sort : sắp xếp
+soul : linh hồn
+sound : âm thanh
+soup : súp
+source : nguồn
+south : miền nam
+southeast : đông nam
+southern : phía nam
+southwest : tây nam
+sovereignty : chủ quyền
+soviet : liên xô
+space : không gian
+spanish : người tây ban nha
+spare : phụ tùng
+spark : tia lửa
+speak : nói
+speaker : loa
+special : đặc biệt
+specialist : chuyên gia
+specialize : chuyên môn hóa
+specialty : chuyên môn
+species : loài
+specific : riêng
+specifically : đặc biệt
+specify : chỉ định
+spectacular : đẹp mắt
+spectrum : quang phổ
+speculate : suy đoán
+speculation : suy đoán
+speech : phát biểu
+speed : tốc độ
+spell : đánh vần
+spend : tiêu
+spending : chi tiêu
+spill : tràn
+spin : quay
+spine : xương sống
+spirit : tinh thần
+spiritual : tinh thần
+spit : nhổ
+spite : bất bình
+split : phân chia
+spoke : nói
+spokesman : người phát ngôn
+sponsor : nhà tài trợ
+spoon : cái thìa
+sport : môn thể thao
+spot : nơi
+spouse : vợ / chồng
+spray : xịt nước
+spread : lan tràn
+sprinkle : rắc
+spring : mùa xuân
+spy : gián điệp
+sphere : quả cầu
+squad : đội hình
+square : quảng trường
+squeeze : bóp
+stability : sự ổn định
+stable : ổn định
+stack : cây rơm
+stadium : sân vận động
+staff : cán bộ
+stage : sân khấu
+stair : cầu thang
+stake : cổ phần
+stance : lập trường
+stand : đứng
+standard : tiêu chuẩn
+standing : đứng
+star : ngôi sao
+stare : nhìn chằm chằm
+start : khởi đầu
+starter : bắt đầu
+starting : bắt đầu
+state : tiểu bang
+statement : tuyên bố
+station : ga tàu
+statistical : thống kê
+statistics : số liệu thống kê
+statue : bức tượng
+status : trạng thái
+statute : đạo luật
+stay : ở lại
+stead : thay thế
+steadily : liên tục
+steady : vững chắc
+steak : miếng bò hầm
+steal : lấy trộm
+steam : hơi nước
+steel : thép
+steep : dốc
+steer : chỉ đạo
+stem : thân cây
+step : bậc thang
+stereotype : khuôn mẫu
+stick : gậy
+stiff : cứng
+still : vẫn
+stimulate : kích thích
+stimulus : kích thích kinh tế
+stir : khuấy
+stock : cổ phần
+stomach : dạ dày
+stone : cục đá
+stood : đứng
+stop : dừng lại
+storage : lưu trữ
+store : cửa hàng
+storm : bão táp
+story : câu chuyện
+stove : bếp
+student : sinh viên
+studio : studio
+study : học
+stuff : đồ đạc
+stumble : tình cờ gặp
+stupid : ngốc nghếch
+style : phong cách
+straight : thẳng
+straighten : làm thẳng
+strain : sự căng thẳng, quá tải
+strange : kỳ lạ
+stranger : lạ
+strategy : chiến lược
+strategic : chiến lược
+straw : rơm rạ
+streak : streak
+stream : suối
+street : đường phố
+strength : sức mạnh
+strengthen : củng cố
+stress : nhấn mạnh
+stretch : căng ra
+strict : nghiêm khắc
+strictly : nghiêm khắc
+strike : đình công
+striking : nổi bật
+string : chuỗi
+strip : dải
+stroke : cú đánh
+strong : mạnh
+strongly : mạnh mẽ
+structural : cấu trúc
+structure : kết cấu
+struggle : đấu tranh
+subject : môn học
+submit : đệ trình
+subsequent : sau đó
+subsidy : trợ cấp
+substance : vật chất
+substantial : đáng kể
+substantially : đáng kể
+subtle : tế nhị
+subtract : trừ đi
+suburb : ngoại ô
+suburban : ngoại ô
+succeed : thành công
+success : sự thành công
+successful : thành công
+successfully : thành công
+suck : hút
+such : như là
+sudden : đột nhiên
+suddenly : đột ngột
+sue : kiện
+suffer : đau khổ
+suffering : đau khổ
+sufficient : đủ
+suffix : hậu tố
+sugar : đường
+suggest : đề nghị
+suggestion : gợi ý
+suicide : tự tử
+suit : bộ đồ
+suitable : thích hợp
+suite : suite
+sum : tổng hợp
+summary : tóm lược
+summer : mùa hè
+summit : hội nghị thượng đỉnh
+sun : mặt trời
+sunlight : ánh sáng mặt trời
+sunny : nắng
+super : siêu
+superior : cấp trên
+supermarket : siêu thị
+supervisor : người giám sát
+supplier : nhà cung cấp
+supply : cung cấp
+support : ủng hộ
+supporter : người ủng hộ
+supportive : hỗ trợ
+suppose : giả sử
+supposed : giả định
+supposedly : được cho là
+supreme : tối cao
+sure : chắc chắn rồi
+surely : chắc chắn
+surface : bề mặt
+surgeon : bác sĩ phẫu thuật
+surgery : phẫu thuật
+surprise : sự ngạc nhiên
+surprised : ngạc nhiên
+surprising : thật ngạc nhiên
+surprisingly : thật ngạc nhiên
+surround : vây quanh
+surrounding : xung quanh
+surveillance : giám sát
+survey : khảo sát
+survival : sự sống còn
+survive : tồn tại
+survivor : người sống sót
+suspect : nghi ngờ
+suspend : đình chỉ
+suspicion : nghi ngờ
+suspicious : nghi ngờ
+sustain : duy trì
+sustainable : bền vững
+swallow : nuốt
+swear : xin thề
+sweat : mồ hôi
+sweater : áo len
+sweep : quét
+sweet : ngọt
+swell : sưng lên
+swim : bơi
+swimming : bơi lội
+swing : lung lay
+switch : công tắc điện
+sword : thanh kiếm
+syllable : âm tiết
+symbol : ký hiệu
+symbolic : tượng trưng
+sympathy : cảm thông
+symptom : triệu chứng
+syndrome : hội chứng
+system : hệ thống
+table : bàn
+tablespoon : muỗng canh
+tackle : giải quyết
+tactic : chiến thuật
+tag : nhãn
+tail : đuôi
+take : lấy
+tale : câu chuyện
+talent : năng lực
+talented : có tài
+talk : nói chuyện
+tall : cao
+tank : xe tăng
+tap : gõ
+tape : băng
+target : mục tiêu
+task : bài tập
+taste : nếm thử
+tax : thuế
+taxpayer : người nộp thuế
+tea : trà
+teach : dạy
+teacher : giáo viên
+teaching : giảng bài
+team : đội
+teammate : đồng đội
+tear : nước mắt
+teaspoon : muỗng cà phê
+technical : kỹ thuật
+technician : kỹ thuật viên
+technique : kỹ thuật
+technology : công nghệ
+technological : công nghệ
+teen : thiếu niên
+teenage : thiếu niên
+teenager : thiếu niên
+teeth : răng
+telephone : điện thoại
+telescope : kính viễn vọng
+television : tivi
+tell : nói
+temperature : nhiệt độ
+temple : ngôi đền
+temporary : tạm thời
+ten : mười
+tend : có xu hướng
+tendency : khuynh hướng
+tender : đấu thầu
+tennis : quần vợt
+tension : căng thẳng
+tent : lều
+term : kỳ hạn
+terms : điều kiện
+terrain : địa hình
+terrible : khủng khiếp
+terribly : khủng khiếp
+terrific : khủng khiếp
+territory : lãnh thổ
+terror : khủng bố
+terrorism : khủng bố
+terrorist : khủng bố
+test : thử nghiệm
+testify : làm chứng
+testimony : lời khai
+testing : thử nghiệm
+text : bản văn
+textbook : sách giáo khoa
+texture : kết cấu
+ticket : vé
+tide : thủy triều
+tie : cà vạt
+tight : chặt chẽ
+tighten : thắt chặt
+tightly : chặt chẽ
+tile : ngói
+till : cho đến
+timber : gỗ
+time : thời gian
+timing : thời gian
+tiny : nhỏ bé
+tip : tiền boa
+tire : lốp xe
+tired : mệt mỏi
+tissue : mô
+title : chức vụ
+to : đến
+tobacco : thuốc lá
+today : hôm nay
+toe : ngón chân
+together : cùng với nhau
+toilet : phòng vệ sinh
+told : kể lại
+tolerance : lòng khoan dung
+tolerate : tha thứ
+toll : số điện thoại
+tomato : cà chua
+tomorrow : ngày mai
+tone : tấn
+tonight : tối nay
+tongue : lưỡi
+too : quá
+took : lấy
+tool : dụng cụ
+tooth : răng
+top : hàng đầu
+topic : đề tài
+toss : quăng
+total : toàn bộ
+totally : hoàn toàn
+touch : chạm
+touchdown : đụng
+tough : khó khăn
+tour : chuyến du lịch
+tourism : du lịch
+tourist : du lịch
+tournament : giải đấu
+toward : đối với
+towards : về hướng
+towel : khăn tắm
+tower : tháp
+town : thị trấn
+toxic : chất độc
+toy : đồ chơi
+tshirt : áo thun
+tube : ống
+tuck : tuck
+tumor : khối u
+tune : điều chỉnh
+tunnel : đường hầm
+turkey : gà tây
+turn : xoay
+tv : tv
+twelve : mười hai
+twentieth : hai mươi
+twenty : hai mươi
+twice : hai lần
+twin : đôi
+twist : xoắn
+two : hai
+twothirds : hai phần ba
+type : kiểu
+typical : điển hình
+typically : thường
+than : hơn
+thank : cảm tạ
+thanks : cảm ơn
+thanksgiving : lễ tạ ơn
+that : cái đó
+the : các
+theater : rạp hát
+their : họ
+them : họ
+theme : chủ đề
+themselves : bản thân họ
+then : sau đó
+theology : thần học
+theological : thần học
+theoretical : lý thuyết
+theory : lý thuyết
+therapist : nhà trị liệu
+therapy : trị liệu
+there : ở đó
+thereby : bằng cách ấy
+therefore : vì thế
+these : những
+they : họ
+thick : dày
+thigh : đùi
+thin : gầy
+think : suy nghĩ
+thinking : suy nghĩ
+thing : điều
+third : thứ ba
+thirty : ba mươi
+this : điều này
+thoroughly : triệt để
+those : những, cái đó
+though : tuy nhiên
+thought : nghĩ
+thousand : nghìn
+thread : chủ đề
+threat : mối đe dọa
+threaten : hăm dọa
+three : số ba
+threshold : ngưỡng
+thrive : phát đạt
+throat : họng
+through : xuyên qua
+throughout : khắp
+throw : ném
+thumb : ngón tay cái
+thus : do đó
+trace : dấu vết
+track : theo dõi
+trade : buôn bán
+trading : thương mại
+tradition : truyền thống
+traditional : truyên thông
+traditionally : theo truyền thống
+traffic : giao thông
+tragedy : bi kịch
+tragic : bi kịch
+trail : đường mòn
+trailer : trailer
+train : xe lửa
+trainer : người huấn luyện
+training : đào tạo
+trait : đặc điểm
+transaction : giao dịch
+transfer : chuyển khoản
+transform : biến đổi
+transformation : chuyển đổi
+transit : quá cảnh
+transition : quá trình chuyển đổi
+translate : dịch
+translation : dịch
+transmission : truyền tải
+transmit : chuyển giao
+transport : vận chuyển
+transportation : vận chuyển
+trap : bẩy
+trash : rác
+trauma : chấn thương
+travel : du lịch
+traveler : du khách
+tray : cái mâm
+treasure : kho báu
+treat : đãi
+treatment : điều trị
+treaty : hiệp ước
+tree : cây
+tremendous : to lớn
+trend : khuynh hướng
+trial : thử nghiệm
+triangle : tam giác
+tribal : bộ lạc
+tribe : bộ lạc
+trick : lừa
+trigger : cò súng
+trim : cắt tỉa
+trip : chuyến đi
+triumph : triumph
+troop (pl) : quân (pl)
+tropical : nhiệt đới
+trouble : rắc rối
+troubled : gặp rắc rối
+truck : xe tải
+true : thật
+truly : thực sự
+trunk : thân cây
+trust : lòng tin
+truth : sự thật
+try : thử
+ugly : xấu xí
+uh : uh
+ultimate : tối hậu
+ultimately : cuối cùng
+unable : không thể
+uncertain : không chắc chắn
+uncertainty : tính không chắc chắn
+uncle : chú
+uncomfortable : khó chịu
+uncover : khám phá
+under : dưới
+undergo : trải qua
+undergraduate : đại học
+underlying : cơ bản
+undermine : phá hoại
+understand : hiểu không
+understanding : hiểu biết
+undertake : thực hiện
+unemployment : thất nghiệp
+unexpected : bất ngờ
+unfair : không công bằng
+unfold : mở ra
+unfortunately : không may
+uniform : đồng phục
+union : liên hiệp
+unique : độc nhất
+unit : đơn vị
+unite : thống nhất
+united : united
+unity : thống nhất
+universal : phổ cập
+universe : vũ trụ
+university : trường đại học
+unknown : không xác định
+unless : trừ khi
+unlike : không giống
+unlikely : không chắc
+unprecedented : chưa từng có
+until : cho đến
+unusual : bất thường
+unhappy : không vui
+up : lên
+update : cập nhật
+upon : trên
+upper : phía trên
+upset : buồn bã
+upstairs : tầng trên
+urban : đô thị
+urge : thúc giục
+us : chúng tôi
+use : sử dụng
+used : đã sử dụng
+useful : hữu ích
+user : người dùng
+usual : thường lệ
+usually : thông thường
+utility : tiện ích
+utilize : sử dụng
+vacation : kỳ nghỉ
+vaccine : vắc-xin
+vacuum : khoảng chân không
+valid : có hiệu lực
+validity : hiệu lực
+valley : thung lũng
+valuable : quý giá
+value : giá trị
+van : van
+vanish : biến mất
+variable : biến
+variation : biến thể
+variety : đa dạng
+various : nhiều
+vary : thay đổi
+vast : rộng lớn
+vegetable : rau
+vehicle : phương tiện
+vendor : nhà cung cấp
+venture : liên doanh
+verb : động từ
+verbal : lời nói
+verdict : bản án
+version : phiên bản
+versus : đấu với
+vertical : theo chiều dọc
+very : rất
+vessel : tàu
+veteran : cựu chiến binh
+via : thông qua
+victim : nạn nhân
+victory : chiến thắng
+video : video
+view : lượt xem
+viewer : người xem
+village : làng
+violate : xâm phạm
+violation : sự vi phạm
+violence : bạo lực
+violent : hung bạo
+virtual : ảo
+virtually : hầu như
+virtue : đức hạnh
+virus : virus
+visible : có thể nhìn thấy
+vision : tầm nhìn
+visit : chuyến thăm
+visitor : khách thăm quan
+visual : trực quan
+vital : quan trọng
+vitamin : vitamin
+vocal : tiếng hát
+voice : tiếng nói
+volume : âm lượng
+voluntary : tình nguyện
+volunteer : tình nguyện
+vote : bỏ phiếu
+voter : cử tri
+voting : bầu cử
+vowel : nguyên âm
+vs : vs
+vulnerable : dễ bị tổn thương
+wage : tiền lương
+wagon : toa xe
+waist : eo
+wait : chờ đợi
+wake : đánh thức
+walk : đi bộ
+walking : đi dạo
+wall : tường
+wander : đi lang thang
+want : muốn
+war : chiến tranh
+warehouse : kho
+warm : ấm áp
+warmth : ấm áp
+warn : cảnh báo
+warning : cảnh báo
+warrior : chiến binh
+was : đã
+wash : rửa
+waste : chất thải
+watch : đồng hồ đeo tay
+water : nước
+wave : làn sóng
+way : đường
+we : chúng tôi
+weak : yếu
+weaken : làm suy yếu
+weakness : yếu đuối
+wealth : sự giàu có
+wealthy : giàu có
+weapon : vũ khí
+wear : mặc
+weather : thời tiết
+weave : dệt
+web : web
+wedding : lễ cưới
+weed : cỏ dại
+week : tuần
+weekend : ngày cuối tuần
+weekly : hàng tuần
+weigh : cân
+weight : cân nặng
+weird : kỳ dị
+welcome : chào mừng
+welfare : phúc lợi
+well : tốt
+wellbeing : hạnh phúc
+wellknown : nổi tiếng
+went : đã đi
+were : là
+west : hướng tây
+western : miền tây
+wet : ướt
+whale : cá voi
+what : gì
+whatever : bất cứ điều gì
+wheat : lúa mì
+wheel : bánh xe
+wheelchair : xe lăn
+when : khi nào
+whenever : bất cứ khi nào
+where : ở đâu
+whereas : trong khi
+wherever : ở đâu
+whether : liệu
+which : mà
+while : trong khi
+whip : roi da
+whisper : thì thầm
+white : trắng
+who : người nào
+whoever : bất cứ ai
+whole : toàn thể
+whom : ai
+whose : có
+why : tại sao
+wide : rộng
+widely : rộng rãi
+widespread : phổ biến rộng rãi
+widow : người đàn bà góa
+wife : người vợ
+wild : hoang dã
+wilderness : hoang dã
+wildlife : động vật hoang dã
+will : sẽ
+willing : sẵn lòng
+willingness : sự sẵn lòng
+win : thắng lợi
+wind : gió
+window : cửa sổ
+wine : rượu nho
+winner : người chiến thắng
+winter : mùa đông
+wing : canh
+wipe : lau
+wire : dây điện
+wisdom : sự khôn ngoan
+wise : khôn ngoan
+wish : muốn
+witness : nhân chứng
+with : với
+withdraw : thu hồi
+withdrawal : thu hồi
+within : bên trong
+without : không có
+wolf : chó sói
+woman : đàn bà
+women : đàn bà
+wonder : ngạc nhiên
+wonderful : tuyệt vời
+won't : sẽ không
+wood : gỗ
+wooden : bằng gỗ
+word : từ
+work : công việc
+worker : công nhân
+working : đang làm việc
+workout : tập thể dục
+workplace : nơi làm việc
+works : công trinh
+workshop : xưởng
+world : thế giới
+worldwide : trên toàn thế giới
+worried : lo lắng
+worry : lo
+worth : giá trị
+would : sẽ
+wound : vết thương
+wow : wow
+wrap : bọc
+wrist : cổ tay
+write : viết
+writer : nhà văn
+writing : viết
+written : bằng văn bản
+wrong : sai rồi
+wrote : đã viết
+yard : sân
+yeah : yeah
+year : năm
+yell : hét lên
+yellow : màu vàng
+yes : vâng
+yesterday : hôm qua
+yet : chưa
+yield : năng suất
+you : bạn
+young : trẻ
+youngster : thiếu niên
+your : của bạn
+yours : của bạn
+yourself : bản thân bạn
+youth : thiếu niên
+zone : vùng
