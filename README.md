@@ -36,12 +36,12 @@
 ## Installation
 1. Clone the repository from GitHub:
  ```
-git clone https://github.com/changchan255/OOP_Dictionary.git
+git clone https://github.com/hungneit/Project_OOP_Dictionary.git
 ```
 
 2. Run the application: Open a terminal, navigate to the project directory, and run the following command:
  ```
-cd OOP_Dictionary
+cd Project_OOP_Dictionary
  ./mvnw javafx:run 
 ```
 Alternatively, open the project in your IDE and run the application from there.
