@@ -13,7 +13,7 @@
    - [**Nguyễn Thu Trang**](https://github.com/changchan255) - 22026514
    - [**Bùi Ngọc Như Ý**](https://github.com/nhuy203) - 22026527
 
-<p align="center"><a href="https://github.com/changchan255/OOP_Dictionary"><img width="40%" src="https://github.com/changchan255/OOP_Dictionary/assets/124891537/de382070-e32a-420d-a488-5271218a4fcb"></a></p>
+<p align="center"><a href="https://github.com/hungneit/Project_OOP_Dictionary"><img width="40%" src="https://github.com/hungneit/Project_OOP_Dictionary/assets/124891537/de382070-e32a-420d-a488-5271218a4fcb"></a></p>
 <br>
 </p>
 
