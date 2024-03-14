@@ -16,6 +16,9 @@ class TrieNode {
         return children.containsKey(ch);
     }
 
+    /**
+     * 1
+     */
     public TrieNode get(char ch) {
         return children.get(ch);
     }
