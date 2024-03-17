@@ -7,7 +7,7 @@ public class App {
         DictionaryCommandline dic = new DictionaryCommandline();
         DictionaryManagement dictionaryManagement = new DictionaryManagement();
         Dictionary dictionary = new Dictionary();
-        String path = "/Users/lehung/Documents/OOP/OOP_Dictionary/DictionaryCommandLine/dictionary.txt";
+        String path = "/Users/lehung/Documents/OOP/Project_OOP_Dictionary/DictionaryCommandLine/dictionary.txt";
         dic.dictionaryAdvanced(dictionaryManagement, dictionary, path);
     }
 }
